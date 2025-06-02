@@ -1,5 +1,11 @@
 # Client–Agnostic Continuous Authentication via Keystroke–Induced Traffic Patterns
 
+## DOIs
+
+**Snapshot v1.0.0** (Initial release)
+
+[![DOI](https://zenodo.org/badge/994959236.svg)](https://doi.org/10.5281/zenodo.15579139)
+
 ## Folder Structure
 
 ```
