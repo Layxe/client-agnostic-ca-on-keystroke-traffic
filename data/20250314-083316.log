@@ -1,0 +1,1300 @@
+1::<|>1741941208245726104
+5:::{"name":"joinProjectResponse","args":[{"publicId":"P.yIODTIm_GnWOqkSeAAAB","project":{"_id":"67cee7ab38bbecf3ac623d91","name":"Test","rootDoc_id":"67cee7ab38bbecf3ac623d96","rootFolder":[{"_id":"67cee7ab38bbecf3ac623d90","name":"rootFolder","folders":[],"fileRefs":[],"docs":[{"_id":"67cee7ab38bbecf3ac623d96","name":"main.tex"}]}],"publicAccesLevel":"private","dropboxEnabled":false,"compiler":"pdflatex","description":"","spellCheckLanguage":"en_US","deletedByExternalDataSource":false,"deletedDocs":[],"members":[],"invites":[],"owner":{"_id":"67cee71c38bbecf3ac623d5b","first_name":"demo","email":"demo@demo.com","privileges":"owner","signUpDate":"2025-03-10T13:20:28.017Z"},"features":{"collaborators":-1,"versioning":true,"dropbox":true,"github":true,"gitBridge":true,"compileTimeout":180,"compileGroup":"standard","references":true,"trackChanges":true,"aiErrorAssistant":false,"templates":false,"referencesSearch":true,"mendeley":true,"trackChangesVisible":false,"symbolPalette":false},"trackChangesState":false},"permissionsLevel":"owner","protocolVersion":2}]}<|>1741941208261343469
+5:1+::{"name":"clientTracking.getConnectedUsers"}<|>1741941208267720644
+5:2+::{"name":"joinDoc","args":["67cee7ab38bbecf3ac623d96",{"encodeRanges":true}]}<|>1741941208290606552
+6:::2+[null,["WHAT WILL HAPPEN TO THIS PROHECTÂ¿SUNDAY TICKETS HANVE BEEN ON SALE FOR WEEKSÂ¾COULD YOU PLEAE LET ME KNOW AS SOON AS POSSIBLEÂ¾THE PLANES HAD FLOWN IN FROM DIJOUBTI TO SANAA EARLIER THURSDAYÂ¾WE ARE ALSO IN TOUCH WITH THE UÂ¿-Â¾-Â¾THERE ARE DIFFERING VIEWS AMPNG THE DOISSIDENT COMMUNITYÂ¾HE REFUSED TO EABPRATE  ON TH DELAYTHE SENATE WOULD REQUIRE THEM TO CREATE A US SUBSIDIARYÂ¾I THINK CITATION SHOULD BE GOOD NOWÂ¾THANKS FOR SENDING THISÂ¾ABOUT a` JORDANIAN DOCTORS ARRIVED AT THE HOSPITAL A FEW DAYS AGOOCOULD YOU TR RINGING HERÂ¿WRE WILL KEEP TRYINGÂ¾THIS IS ALL SO UNREALÂ¾WANG WAS TO MEET WITH CLINTONÃS NATIONAL SECURITY ADVISOR"],37166,[],{}]<|>1741941208299995227
+5:::{"name":"clientTracking.updatePosition","args":[{"row":0,"column":0,"doc_id":"67cee7ab38bbecf3ac623d96"}]}<|>1741941209180147609
+5:::{"name":"clientTracking.clientUpdated","args":[{"row":0,"column":0,"doc_id":"67cee7ab38bbecf3ac623d96","id":"P.yIODTIm_GnWOqkSeAAAB","user_id":"67cee71c38bbecf3ac623d5b","email":"demo@demo.com","name":"demo"}]}<|>1741941209187290733
+6:::1+[null,[{"last_updated_at":"1741941209183","user_id":"67cee71c38bbecf3ac623d5b","first_name":"demo","last_name":"","email":"demo@demo.com","cursorData":{"row":0,"column":0,"doc_id":"67cee7ab38bbecf3ac623d96"},"connected":true,"client_id":"P.yIODTIm_GnWOqkSeAAAB","client_age":0.089}]]<|>1741941209274639939
+5:3+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":0,"d":"WHAT WILL HAPPEN TO THIS PROHECT¿SUNDAY TICKETS HANVE BEEN ON SALE FOR WEEKS¾COULD YOU PLEAE LET ME KNOW AS SOON AS POSSIBLE¾THE PLANES HAD FLOWN IN FROM DIJOUBTI TO SANAA EARLIER THURSDAY¾WE ARE ALSO IN TOUCH WITH THE U¿-¾-¾THERE ARE DIFFERING VIEWS AMPNG THE DOISSIDENT COMMUNITY¾HE REFUSED TO EABPRATE  ON TH DELAYTHE SENATE WOULD REQUIRE THEM TO CREATE A US SUBSIDIARY¾I THINK CITATION SHOULD BE GOOD NOW¾THANKS FOR SENDING THIS¾ABOUT a` JORDANIAN DOCTORS ARRIVED AT THE HOSPITAL A FEW DAYS AGOOCOULD YOU TR RINGING HER¿WRE WILL KEEP TRYING¾THIS IS ALL SO UNREAL¾WANG WAS TO MEET WITH CLINTONÞS NATIONAL SECURITY ADVISOR"},{"p":0,"i":"T"}],"v":37166,"hash":"96583aabf5a13fdc518899efd0c92c41da28eb2f"}]}<|>1741941210674191604
+6:::3<|>1741941210679266929
+5:::{"name":"otUpdateApplied","args":[{"v":37166,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941210683693577
+5:4+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":1,"i":"HE "}],"v":37167,"lastV":37166}]}<|>1741941212688522999
+6:::4<|>1741941212694814682
+5:::{"name":"otUpdateApplied","args":[{"v":37167,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941212698674686
+5:5+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":4,"i":"G"},{"p":4,"d":"G"},{"p":4,"i":"F"}],"v":37168,"lastV":37167,"hash":"6aca6f91a684863eab0ddf76a2d9b2c543be957e"}]}<|>1741941216959369661
+6:::5<|>1741941216965108036
+5:::{"name":"otUpdateApplied","args":[{"v":37168,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941216969780498
+5:6+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":5,"i":"OI"}],"v":37169,"lastV":37168}]}<|>1741941218974028265
+6:::6<|>1741941218979247885
+5:::{"name":"otUpdateApplied","args":[{"v":37169,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941218983515152
+5:7+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":6,"d":"I"},{"p":6,"i":"U"}],"v":37170,"lastV":37169}]}<|>1741941220988153310
+6:::7<|>1741941220994851773
+5:::{"name":"otUpdateApplied","args":[{"v":37170,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941220999252224
+5:8+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":7,"i":"T"},{"p":7,"d":"T"},{"p":7,"i":"R"}],"v":37171,"lastV":37170,"hash":"3ba12a49a36e99fa0a8e53fd2bb276727b607f68"}]}<|>1741941223004072693
+6:::8<|>1741941223008175298
+5:::{"name":"otUpdateApplied","args":[{"v":37171,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941223012759198
+5:9+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":8,"i":" "},{"p":8,"d":" "}],"v":37172,"lastV":37171}]}<|>1741941225017559248
+6:::9<|>1741941225023128822
+5:::{"name":"otUpdateApplied","args":[{"v":37172,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941225027457489
+5:10+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":8,"i":"¼"},{"p":8,"d":"¼"}],"v":37173,"lastV":37172}]}<|>1741941227029584287
+6:::10<|>1741941227031192742
+5:::{"name":"otUpdateApplied","args":[{"v":37173,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941227032154789
+5:11+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":8,"i":"½"}],"v":37174,"lastV":37173,"hash":"b7e0b2c4fda4617dc80a3441bf578f75859201bf"}]}<|>1741941229034791072
+6:::11<|>1741941229040323148
+5:::{"name":"otUpdateApplied","args":[{"v":37174,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941229043965033
+5:12+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":9,"i":"E"},{"p":9,"d":"E"},{"p":9,"i":"C"}],"v":37175,"lastV":37174}]}<|>1741941231047586691
+6:::12<|>1741941231052166318
+5:::{"name":"otUpdateApplied","args":[{"v":37175,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941231055945448
+5:13+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":10,"i":"ITY"}],"v":37176,"lastV":37175}]}<|>1741941233059160371
+6:::13<|>1741941233064202626
+5:::{"name":"otUpdateApplied","args":[{"v":37176,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941233069098859
+2::<|>1741941233247253676
+2::<|>1741941233250830106
+5:14+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":13,"i":" T"}],"v":37177,"lastV":37176,"hash":"d1cf47a5e8739f240cdd6d19fe3727135f82a222"}]}<|>1741941235073203189
+6:::14<|>1741941235079221241
+5:::{"name":"otUpdateApplied","args":[{"v":37177,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941235082554932
+5:15+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":15,"i":"OU"}],"v":37178,"lastV":37177}]}<|>1741941237087634645
+6:::15<|>1741941237094419891
+5:::{"name":"otUpdateApplied","args":[{"v":37178,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941237098460190
+5:16+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":17,"i":"R "}],"v":37179,"lastV":37178}]}<|>1741941239102979934
+6:::16<|>1741941239109235900
+5:::{"name":"otUpdateApplied","args":[{"v":37179,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941239112873128
+5:17+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":19,"i":"CO"}],"v":37180,"lastV":37179,"hash":"f6922165f491a4c722d6a57ce2c98ff6f1e297ee"}]}<|>1741941241120519491
+6:::17<|>1741941241125893706
+5:::{"name":"otUpdateApplied","args":[{"v":37180,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941241129031671
+5:18+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":21,"i":"NT"}],"v":37181,"lastV":37180}]}<|>1741941243132229229
+6:::18<|>1741941243137258416
+5:::{"name":"otUpdateApplied","args":[{"v":37181,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941243141201347
+5:19+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":23,"i":"U"},{"p":23,"d":"U"}],"v":37182,"lastV":37181}]}<|>1741941245145062584
+6:::19<|>1741941245150578036
+5:::{"name":"otUpdateApplied","args":[{"v":37182,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941245154573847
+5:20+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":23,"i":"IN"}],"v":37183,"lastV":37182,"hash":"349012752fd7db636ad33f44aeb96ed97eb4b466"}]}<|>1741941247158755178
+6:::20<|>1741941247164765896
+5:::{"name":"otUpdateApplied","args":[{"v":37183,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941247169247806
+5:21+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":25,"i":"UES "}],"v":37184,"lastV":37183}]}<|>1741941249173774317
+6:::21<|>1741941249179513402
+5:::{"name":"otUpdateApplied","args":[{"v":37184,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941249183252938
+5:22+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":29,"i":"F"}],"v":37185,"lastV":37184}]}<|>1741941251187230798
+6:::22<|>1741941251192798404
+5:::{"name":"otUpdateApplied","args":[{"v":37185,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941251195565947
+5:23+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":30,"i":"RI"}],"v":37186,"lastV":37185,"hash":"46d3b11b2c3d21af49b0955a7328509f3e84f697"}]}<|>1741941253200370655
+6:::23<|>1741941253206032397
+5:::{"name":"otUpdateApplied","args":[{"v":37186,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941253209929618
+5:24+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":32,"i":"DSA"},{"p":33,"d":"SA"},{"p":33,"i":"A"}],"v":37187,"lastV":37186}]}<|>1741941255213497275
+6:::24<|>1741941255218490588
+5:::{"name":"otUpdateApplied","args":[{"v":37187,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941255222737050
+5:25+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":34,"i":"T"}],"v":37188,"lastV":37187}]}<|>1741941257225980463
+6:::25<|>1741941257230879072
+5:::{"name":"otUpdateApplied","args":[{"v":37188,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941257234524425
+2::<|>1741941258253965799
+2::<|>1741941258255177281
+5:26+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":34,"d":"T"},{"p":34,"i":"R"},{"p":34,"d":"R"},{"p":34,"i":"E"},{"p":34,"d":"E"},{"p":34,"i":"W"},{"p":34,"d":"W"}],"v":37189,"lastV":37188,"hash":"14a5ae97da1ace405a0881b879eac417002f90c4"}]}<|>1741941259238835984
+6:::26<|>1741941259244283393
+5:::{"name":"otUpdateApplied","args":[{"v":37189,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941259248392072
+5:27+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":34,"i":"I"}],"v":37190,"lastV":37189}]}<|>1741941261252280319
+6:::27<|>1741941261257796228
+5:::{"name":"otUpdateApplied","args":[{"v":37190,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941261261799813
+5:28+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":34,"d":"I"},{"p":34,"i":"U"},{"p":34,"d":"U"}],"v":37191,"lastV":37190}]}<|>1741941263266428041
+6:::28<|>1741941263273665399
+5:::{"name":"otUpdateApplied","args":[{"v":37191,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941263276171951
+5:29+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":34,"i":"V"}],"v":37192,"lastV":37191,"hash":"3b996286826eae2403d82f01b9bfee68df56d2fe"}]}<|>1741941265280912686
+6:::29<|>1741941265286142323
+5:::{"name":"otUpdateApplied","args":[{"v":37192,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941265288565721
+5:30+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":34,"d":"V"},{"p":34,"i":"C"},{"p":34,"d":"C"},{"p":34,"i":"X"},{"p":34,"d":"X"},{"p":34,"i":"C"}],"v":37193,"lastV":37192}]}<|>1741941267292433065
+6:::30<|>1741941267298575760
+5:::{"name":"otUpdateApplied","args":[{"v":37193,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941267302163750
+5:31+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":34,"d":"C"},{"p":34,"i":"V"},{"p":34,"d":"V"},{"p":34,"i":"B"},{"p":34,"d":"B"},{"p":34,"i":"N"},{"p":34,"d":"N"},{"p":34,"i":"M"}],"v":37194,"lastV":37193}]}<|>1741941269306266177
+6:::31<|>1741941269312432760
+5:::{"name":"otUpdateApplied","args":[{"v":37194,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941269316198258
+5:32+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":34,"d":"M"},{"p":34,"i":"¼"},{"p":34,"d":"¼"}],"v":37195,"lastV":37194,"hash":"14a5ae97da1ace405a0881b879eac417002f90c4"}]}<|>1741941271318124029
+6:::32<|>1741941271320597341
+5:::{"name":"otUpdateApplied","args":[{"v":37195,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941271322248010
+5:33+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":34,"i":"Y I"}],"v":37196,"lastV":37195}]}<|>1741941275933847421
+6:::33<|>1741941275939220510
+5:::{"name":"otUpdateApplied","args":[{"v":37196,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941275943245534
+5:34+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":37,"i":"N H"}],"v":37197,"lastV":37196,"hash":"750703eb9f4259904e5d94cdac85c6b30169fe18"}]}<|>1741941277946851831
+6:::34<|>1741941277952045499
+5:::{"name":"otUpdateApplied","args":[{"v":37197,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941277956728125
+5:35+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":39,"d":"H"},{"p":39,"i":"K"}],"v":37198,"lastV":37197}]}<|>1741941279961039315
+6:::35<|>1741941279965768992
+5:::{"name":"otUpdateApplied","args":[{"v":37198,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941279967405159
+5:36+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":39,"d":"K"},{"p":39,"i":"K"}],"v":37199,"lastV":37198}]}<|>1741941281968982611
+6:::36<|>1741941281971586031
+5:::{"name":"otUpdateApplied","args":[{"v":37199,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941281973001392
+2::<|>1741941283259560257
+2::<|>1741941283263451490
+5:37+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":40,"i":"ANF"}],"v":37200,"lastV":37199,"hash":"19f939ba7fa355dd9c144f03dd85c4be0fef1dc3"}]}<|>1741941283975215551
+6:::37<|>1741941283979187262
+5:::{"name":"otUpdateApplied","args":[{"v":37200,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941283981475909
+5:38+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":43,"i":"A"},{"p":42,"d":"FA"},{"p":42,"i":"SA"}],"v":37201,"lastV":37200}]}<|>1741941285985144994
+6:::38<|>1741941285991245221
+5:::{"name":"otUpdateApplied","args":[{"v":37201,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941285995759603
+5:39+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":44,"i":"S "}],"v":37202,"lastV":37201}]}<|>1741941287998798087
+6:::39<|>1741941288002381431
+5:::{"name":"otUpdateApplied","args":[{"v":37202,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941288004432887
+5:40+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":46,"i":"CIT"}],"v":37203,"lastV":37202,"hash":"2019acae6313b8cc955b646f0728ef9a8eab2029"}]}<|>1741941290006824808
+6:::40<|>1741941290010448173
+5:::{"name":"otUpdateApplied","args":[{"v":37203,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941290013189979
+5:41+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":49,"i":"Y"}],"v":37204,"lastV":37203}]}<|>1741941292016060603
+6:::41<|>1741941292020882737
+5:::{"name":"otUpdateApplied","args":[{"v":37204,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941292024572700
+5:42+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":50,"i":"¼ "}],"v":37205,"lastV":37204}]}<|>1741941294027980089
+6:::42<|>1741941294033225054
+5:::{"name":"otUpdateApplied","args":[{"v":37205,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941294037767122
+5:43+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":52,"i":"M"}],"v":37206,"lastV":37205,"hash":"0f7cc9536de989b0dbea964fb5fb2aaeb39d37a6"}]}<|>1741941296040944966
+6:::43<|>1741941296045870648
+5:::{"name":"otUpdateApplied","args":[{"v":37206,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941296050847515
+5:44+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":53,"i":"I"},{"p":53,"d":"I"}],"v":37207,"lastV":37206}]}<|>1741941300786247703
+6:::44<|>1741941300792729552
+5:::{"name":"otUpdateApplied","args":[{"v":37207,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941300795948107
+5:45+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":53,"i":"ISS"}],"v":37208,"lastV":37207,"hash":"a8eb26580b78893c652a4f55a701f4d692d2e178"}]}<|>1741941302798426569
+6:::45<|>1741941302801130920
+5:::{"name":"otUpdateApplied","args":[{"v":37208,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941302804279351
+5:46+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":56,"i":"O"}],"v":37209,"lastV":37208}]}<|>1741941304807028312
+6:::46<|>1741941304811499998
+5:::{"name":"otUpdateApplied","args":[{"v":37209,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941304814706230
+5:47+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":57,"i":"URI"}],"v":37210,"lastV":37209}]}<|>1741941306818815648
+6:::47<|>1741941306825297348
+5:::{"name":"otUpdateApplied","args":[{"v":37210,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941306831047433
+2::<|>1741941308269607678
+2::<|>1741941308273038771
+5:48+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":60,"i":"¾"}],"v":37211,"lastV":37210,"hash":"f772833b14092192371abccd6ddc049d8049645d"}]}<|>1741941308835131544
+6:::48<|>1741941308840840865
+5:::{"name":"otUpdateApplied","args":[{"v":37211,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941308845430759
+2::<|>1741941333278055555
+2::<|>1741941333281236275
+5:49+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":61,"i":"B"}],"v":37212,"lastV":37211,"hash":"b6b58bce9d2949e8c8d94ca6f0f82e84f6482a3f"}]}<|>1741941341132372470
+6:::49<|>1741941341138044314
+5:::{"name":"otUpdateApplied","args":[{"v":37212,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941341141262288
+5:50+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":62,"i":"E"}],"v":37213,"lastV":37212}]}<|>1741941343145139791
+6:::50<|>1741941343150288173
+5:::{"name":"otUpdateApplied","args":[{"v":37213,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941343154177023
+5:51+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":62,"d":"E"},{"p":62,"i":"R"}],"v":37214,"lastV":37213}]}<|>1741941345158435645
+6:::51<|>1741941345164198180
+5:::{"name":"otUpdateApplied","args":[{"v":37214,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941345167984235
+5:52+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":63,"i":"V"}],"v":37215,"lastV":37214,"hash":"c16a7701d234022ae995dda73e15fb10ea485e08"}]}<|>1741941347171692443
+6:::52<|>1741941347177849444
+5:::{"name":"otUpdateApplied","args":[{"v":37215,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941347181850009
+5:53+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":63,"d":"V"},{"p":63,"i":"C"}],"v":37216,"lastV":37215}]}<|>1741941349185396624
+6:::53<|>1741941349190462615
+5:::{"name":"otUpdateApplied","args":[{"v":37216,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941349195997582
+5:54+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":64,"i":"KO "}],"v":37217,"lastV":37216,"hash":"fb6b18afe5b869e898d8fda2041c97c3ef0769ed"}]}<|>1741941354360984469
+6:::54<|>1741941354367207008
+5:::{"name":"otUpdateApplied","args":[{"v":37217,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941354370859526
+5:55+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":67,"i":"HSD"},{"p":68,"d":"SD"},{"p":68,"i":"S"},{"p":68,"d":"S"}],"v":37218,"lastV":37217}]}<|>1741941356375388783
+6:::55<|>1741941356381914606
+5:::{"name":"otUpdateApplied","args":[{"v":37218,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941356387537911
+2::<|>1741941358283574985
+2::<|>1741941358284592138
+5:56+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":68,"i":"A"},{"p":68,"d":"A"},{"p":68,"i":"A"}],"v":37219,"lastV":37218}]}<|>1741941358391664827
+6:::56<|>1741941358399400277
+5:::{"name":"otUpdateApplied","args":[{"v":37219,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941358403740004
+5:57+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":69,"i":"D "}],"v":37220,"lastV":37219,"hash":"7bf4935e349c1f3736d4580474149e98e75cfe9b"}]}<|>1741941364233020284
+6:::57<|>1741941364238967841
+5:::{"name":"otUpdateApplied","args":[{"v":37220,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941364244082489
+5:58+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":71,"i":"BEE"}],"v":37221,"lastV":37220}]}<|>1741941366248210713
+6:::58<|>1741941366253670247
+5:::{"name":"otUpdateApplied","args":[{"v":37221,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941366258073103
+5:59+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":74,"i":"N"}],"v":37222,"lastV":37221}]}<|>1741941368261650007
+6:::59<|>1741941368267190467
+5:::{"name":"otUpdateApplied","args":[{"v":37222,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941368270945688
+5:60+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":75,"i":" "}],"v":37223,"lastV":37222,"hash":"598d7cd472416add5e2e32f0e3147efab90180f4"}]}<|>1741941370275436013
+6:::60<|>1741941370281557757
+5:::{"name":"otUpdateApplied","args":[{"v":37223,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941370284443214
+5:61+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":76,"i":"P"}],"v":37224,"lastV":37223}]}<|>1741941372288656219
+6:::61<|>1741941372294874756
+5:::{"name":"otUpdateApplied","args":[{"v":37224,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941372298571902
+5:62+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":77,"i":"T"},{"p":77,"d":"T"},{"p":77,"i":"R"}],"v":37225,"lastV":37224}]}<|>1741941374302832754
+6:::62<|>1741941374309687465
+5:::{"name":"otUpdateApplied","args":[{"v":37225,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941374313593963
+5:63+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":78,"i":"OS"}],"v":37226,"lastV":37225,"hash":"019560cf5cca9339dbafcfee9a6677a320db4a4d"}]}<|>1741941376317800463
+6:::63<|>1741941376323021696
+5:::{"name":"otUpdateApplied","args":[{"v":37226,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941376327775894
+5:64+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":79,"d":"S"},{"p":79,"i":"P"}],"v":37227,"lastV":37226}]}<|>1741941380958880569
+6:::64<|>1741941380964551446
+5:::{"name":"otUpdateApplied","args":[{"v":37227,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941380969017080
+2::<|>1741941383286988109
+2::<|>1741941383288141423
+5:65+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":80,"i":"O"}],"v":37228,"lastV":37227,"hash":"9561980185dccbda2696bb7bcb4f8e8fc1971361"}]}<|>1741941385367162491
+6:::65<|>1741941385373629906
+5:::{"name":"otUpdateApplied","args":[{"v":37228,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941385377306321
+5:66+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":81,"i":"S"}],"v":37229,"lastV":37228}]}<|>1741941387381895555
+6:::66<|>1741941387388541804
+5:::{"name":"otUpdateApplied","args":[{"v":37229,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941387391674720
+5:67+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":82,"i":"E"}],"v":37230,"lastV":37229}]}<|>1741941389395905133
+6:::67<|>1741941389402185985
+5:::{"name":"otUpdateApplied","args":[{"v":37230,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941389407932289
+5:68+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":83,"i":"S"},{"p":83,"d":"S"},{"p":83,"i":"D"},{"p":83,"d":"D"}],"v":37231,"lastV":37230,"hash":"62d43107797a2e0814100e61c159e71435b9512c"}]}<|>1741941393418503608
+6:::68<|>1741941393425146355
+5:::{"name":"otUpdateApplied","args":[{"v":37231,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941393429580277
+5:69+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":83,"i":"D AS"}],"v":37232,"lastV":37231}]}<|>1741941395433636470
+6:::69<|>1741941395438871159
+5:::{"name":"otUpdateApplied","args":[{"v":37232,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941395443269249
+5:70+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":87,"i":" AN"}],"v":37233,"lastV":37232}]}<|>1741941397447621949
+6:::70<|>1741941397453939208
+5:::{"name":"otUpdateApplied","args":[{"v":37233,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941397458002940
+5:71+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":90,"i":"OTHE"}],"v":37234,"lastV":37233,"hash":"429cc54eba3db462939564ede4fc2f4be16b9ef6"}]}<|>1741941399471222504
+6:::71<|>1741941399476616976
+5:::{"name":"otUpdateApplied","args":[{"v":37234,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941399480897447
+5:72+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":94,"i":"R SI"}],"v":37235,"lastV":37234}]}<|>1741941401484807833
+6:::72<|>1741941401490261689
+5:::{"name":"otUpdateApplied","args":[{"v":37235,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941401494030550
+5:73+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":98,"i":"TE "}],"v":37236,"lastV":37235}]}<|>1741941403498641856
+6:::73<|>1741941403505100827
+5:::{"name":"otUpdateApplied","args":[{"v":37236,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941403508632661
+5:74+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":101,"i":"FOR "}],"v":37237,"lastV":37236,"hash":"464396d69a7740034600391a2e00ce2bf0156620"}]}<|>1741941405513171426
+6:::74<|>1741941405519124531
+5:::{"name":"otUpdateApplied","args":[{"v":37237,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941405522592109
+5:75+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":105,"i":"A SA"}],"v":37238,"lastV":37237}]}<|>1741941407525472848
+6:::75<|>1741941407530234804
+5:::{"name":"otUpdateApplied","args":[{"v":37238,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941407533493307
+2::<|>1741941408290366177
+2::<|>1741941408301734735
+5:76+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":109,"i":"FE A"}],"v":37239,"lastV":37238}]}<|>1741941409535721660
+6:::76<|>1741941409538223120
+5:::{"name":"otUpdateApplied","args":[{"v":37239,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941409540459966
+5:77+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":113,"i":"REA¾"}],"v":37240,"lastV":37239,"hash":"a8f3caa94619925d32b581859bb8e522e15800d5"}]}<|>1741941411541991778
+6:::77<|>1741941411544319799
+5:::{"name":"otUpdateApplied","args":[{"v":37240,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941411546547097
+5:78+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":117,"i":"I AN "}],"v":37241,"lastV":37240,"hash":"b5fa2525689cecfce308c415490c36b830acca21"}]}<|>1741941423692592059
+6:::78<|>1741941423696345376
+5:::{"name":"otUpdateApplied","args":[{"v":37241,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941423697938959
+5:79+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":120,"d":"N "},{"p":120,"i":"M"}],"v":37242,"lastV":37241}]}<|>1741941425701763912
+6:::79<|>1741941425703885786
+5:::{"name":"otUpdateApplied","args":[{"v":37242,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941425705383062
+5:80+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":121,"i":" ALº"},{"p":124,"d":"º"}],"v":37243,"lastV":37242}]}<|>1741941427708416583
+6:::80<|>1741941427713565844
+5:::{"name":"otUpdateApplied","args":[{"v":37243,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941427717591106
+5:81+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":124,"i":"L O"}],"v":37244,"lastV":37243,"hash":"4f3f615c0216b7b71d6920fb075dfecd13b3fa10"}]}<|>1741941429721402225
+6:::81<|>1741941429726320599
+5:::{"name":"otUpdateApplied","args":[{"v":37244,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941429732059264
+5:82+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":127,"i":"V"}],"v":37245,"lastV":37244}]}<|>1741941431736382750
+6:::82<|>1741941431742791865
+5:::{"name":"otUpdateApplied","args":[{"v":37245,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941431746548977
+2::<|>1741941433306383844
+2::<|>1741941433309213105
+5:83+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":128,"i":"ER "}],"v":37246,"lastV":37245}]}<|>1741941433750632915
+6:::83<|>1741941433757017488
+5:::{"name":"otUpdateApplied","args":[{"v":37246,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941433760236905
+5:84+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":131,"i":"O"},{"p":131,"d":"O"},{"p":131,"i":"I"}],"v":37247,"lastV":37246,"hash":"836789e76fc38085d3fb838dd1bf8a8a54905f5b"}]}<|>1741941435763877840
+6:::84<|>1741941435770133996
+5:::{"name":"otUpdateApplied","args":[{"v":37247,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941435773721083
+5:85+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":132,"i":"T¾"}],"v":37248,"lastV":37247}]}<|>1741941437777560470
+6:::85<|>1741941437783263140
+5:::{"name":"otUpdateApplied","args":[{"v":37248,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941437786925937
+5:86+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":134,"i":"HR"}],"v":37249,"lastV":37248,"hash":"6a5fe3291821b2580fee40e897b44cc5aa380c25"}]}<|>1741941456217914724
+6:::86<|>1741941456219991670
+5:::{"name":"otUpdateApplied","args":[{"v":37249,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941456220967174
+5:87+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":135,"d":"R"},{"p":135,"i":"E"}],"v":37250,"lastV":37249}]}<|>1741941458223341586
+6:::87<|>1741941458228327151
+5:::{"name":"otUpdateApplied","args":[{"v":37250,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941458232408227
+2::<|>1741941458313855491
+2::<|>1741941458316494288
+5:88+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":136,"i":" "}],"v":37251,"lastV":37250}]}<|>1741941460235519870
+6:::88<|>1741941460240753818
+5:::{"name":"otUpdateApplied","args":[{"v":37251,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941460245768865
+5:89+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":137,"i":"IS "}],"v":37252,"lastV":37251,"hash":"f9cdc46b0927f17ab5bd25103f9a69b8620eae3d"}]}<|>1741941462250120840
+6:::89<|>1741941462256303766
+5:::{"name":"otUpdateApplied","args":[{"v":37252,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941462260895546
+5:90+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":140,"i":"RE"}],"v":37253,"lastV":37252}]}<|>1741941464264801191
+6:::90<|>1741941464270142225
+5:::{"name":"otUpdateApplied","args":[{"v":37253,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941464273573634
+5:91+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":142,"i":"CO"}],"v":37254,"lastV":37253}]}<|>1741941466277614830
+6:::91<|>1741941466283470546
+5:::{"name":"otUpdateApplied","args":[{"v":37254,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941466286955492
+5:92+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":144,"i":"N"},{"p":144,"d":"N"}],"v":37255,"lastV":37254,"hash":"d2eabf25696135b1f29ff4744357a2bebfc0c513"}]}<|>1741941468290651102
+6:::92<|>1741941468295815430
+5:::{"name":"otUpdateApplied","args":[{"v":37255,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941468299954252
+5:93+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":144,"i":"B"},{"p":144,"d":"B"},{"p":144,"i":"V"}],"v":37256,"lastV":37255,"hash":"537bc9463cd22f078204b1dd0c9ef333b1c006ce"}]}<|>1741941479943285698
+6:::93<|>1741941479949639115
+5:::{"name":"otUpdateApplied","args":[{"v":37256,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941479953721757
+2::<|>1741941483320231266
+2::<|>1741941483322814393
+5:94+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":145,"i":"R"},{"p":145,"d":"R"},{"p":145,"i":"ER"}],"v":37257,"lastV":37256}]}<|>1741941484636793107
+6:::94<|>1741941484642194182
+5:::{"name":"otUpdateApplied","args":[{"v":37257,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941484645920992
+5:95+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":147,"i":"IM"}],"v":37258,"lastV":37257,"hash":"159b909736a0d94e5fee779c0cf41618bd0309a9"}]}<|>1741941486649772169
+6:::95<|>1741941486654939668
+5:::{"name":"otUpdateApplied","args":[{"v":37258,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941486658466512
+5:96+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":148,"d":"M"}],"v":37259,"lastV":37258}]}<|>1741941488663631245
+6:::96<|>1741941488671281479
+5:::{"name":"otUpdateApplied","args":[{"v":37259,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941488674861015
+5:97+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":148,"i":"N"}],"v":37260,"lastV":37259}]}<|>1741941490681733077
+6:::97<|>1741941490687908319
+5:::{"name":"otUpdateApplied","args":[{"v":37260,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941490691901560
+5:98+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":149,"i":"G "}],"v":37261,"lastV":37260,"hash":"74a4e038f52972f4ca3820c5ea3b6e4dc1a2f0ec"}]}<|>1741941492695733761
+6:::98<|>1741941492701242607
+5:::{"name":"otUpdateApplied","args":[{"v":37261,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941492707089823
+5:99+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":151,"i":"FRI"}],"v":37262,"lastV":37261}]}<|>1741941494709467800
+6:::99<|>1741941494713479556
+5:::{"name":"otUpdateApplied","args":[{"v":37262,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941494717707275
+5:100+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":153,"d":"I"},{"p":153,"i":"O"}],"v":37263,"lastV":37262}]}<|>1741941496721574388
+6:::100<|>1741941496727201095
+5:::{"name":"otUpdateApplied","args":[{"v":37263,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941496731836813
+5:101+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":154,"i":"N"},{"p":154,"d":"N"}],"v":37264,"lastV":37263,"hash":"5c5ddf81b2b883d2362833e02b2b0ee4498894b4"}]}<|>1741941498738090436
+6:::101<|>1741941498740828189
+5:::{"name":"otUpdateApplied","args":[{"v":37264,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941498742283621
+5:102+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":154,"i":"M "}],"v":37265,"lastV":37264}]}<|>1741941500746330521
+6:::102<|>1741941500752496837
+5:::{"name":"otUpdateApplied","args":[{"v":37265,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941500756984660
+5:103+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":156,"i":"A SO"}],"v":37266,"lastV":37265}]}<|>1741941502769093303
+6:::103<|>1741941502774265042
+5:::{"name":"otUpdateApplied","args":[{"v":37266,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941502777872671
+5:104+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":159,"d":"O"}],"v":37267,"lastV":37266,"hash":"0505c0aeadd8ffd6497b3aafc1e36b2c42d82778"}]}<|>1741941504782200972
+6:::104<|>1741941504788265307
+5:::{"name":"otUpdateApplied","args":[{"v":37267,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941504792834238
+5:105+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":159,"i":"PRA"}],"v":37268,"lastV":37267}]}<|>1741941506797195232
+6:::105<|>1741941506803412578
+5:::{"name":"otUpdateApplied","args":[{"v":37268,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941506807525321
+2::<|>1741941508326096517
+2::<|>1741941508327099301
+5:106+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":162,"i":"INE"}],"v":37269,"lastV":37268}]}<|>1741941508814793085
+6:::106<|>1741941508819681887
+5:::{"name":"otUpdateApplied","args":[{"v":37269,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941508822135962
+5:107+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":165,"i":"D"}],"v":37270,"lastV":37269,"hash":"9d03b629cafc6c1259f9e328c202726cad4e068f"}]}<|>1741941510826628692
+6:::107<|>1741941510832298172
+5:::{"name":"otUpdateApplied","args":[{"v":37270,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941510836066247
+5:108+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":166,"i":" "}],"v":37271,"lastV":37270}]}<|>1741941512840498905
+6:::108<|>1741941512847245079
+5:::{"name":"otUpdateApplied","args":[{"v":37271,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941512850735929
+5:109+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":167,"i":"FII"}],"v":37272,"lastV":37271}]}<|>1741941514855061839
+6:::109<|>1741941514860839232
+5:::{"name":"otUpdateApplied","args":[{"v":37272,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941514865127897
+5:110+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":168,"d":"II"},{"p":168,"i":"OO"}],"v":37273,"lastV":37272,"hash":"f10a963561cc120c6046dedc98194c30ff1397c5"}]}<|>1741941516869758368
+6:::110<|>1741941516875456885
+5:::{"name":"otUpdateApplied","args":[{"v":37273,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941516879071237
+5:111+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":170,"i":"T¾"}],"v":37274,"lastV":37273}]}<|>1741941518881155225
+6:::111<|>1741941518883257016
+5:::{"name":"otUpdateApplied","args":[{"v":37274,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941518884058554
+5:112+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":172,"i":"M"},{"p":172,"d":"M"}],"v":37275,"lastV":37274,"hash":"2ba34b157882e673a4fa360e17d05f456170126b"}]}<|>1741941526144170468
+6:::112<|>1741941526149914479
+5:::{"name":"otUpdateApplied","args":[{"v":37275,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941526153044106
+5:113+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":172,"i":"OST "}],"v":37276,"lastV":37275}]}<|>1741941530797201761
+6:::113<|>1741941530802744840
+5:::{"name":"otUpdateApplied","args":[{"v":37276,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941530806384508
+5:114+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":176,"i":"RE"}],"v":37277,"lastV":37276,"hash":"44f1800d96a0f3fd91aa8731175fe47ac374f152"}]}<|>1741941532810923139
+6:::114<|>1741941532817014887
+5:::{"name":"otUpdateApplied","args":[{"v":37277,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941532820510951
+2::<|>1741941533329176643
+2::<|>1741941533330134916
+5:115+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":178,"i":"CEN"}],"v":37278,"lastV":37277}]}<|>1741941534823628699
+6:::115<|>1741941534828676578
+5:::{"name":"otUpdateApplied","args":[{"v":37278,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941534834196973
+5:116+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":181,"i":"T S"}],"v":37279,"lastV":37278}]}<|>1741941536838421177
+6:::116<|>1741941536844699283
+5:::{"name":"otUpdateApplied","args":[{"v":37279,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941536848430019
+5:117+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":184,"i":"I"},{"p":184,"d":"I"}],"v":37280,"lastV":37279,"hash":"2362a267418a11cebd77f8bec9312b7224ef35cf"}]}<|>1741941538852075714
+6:::117<|>1741941538857340314
+5:::{"name":"otUpdateApplied","args":[{"v":37280,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941538860531587
+5:118+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":184,"i":"UR"}],"v":37281,"lastV":37280}]}<|>1741941540864857670
+6:::118<|>1741941540870924411
+5:::{"name":"otUpdateApplied","args":[{"v":37281,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941540875297268
+5:119+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":186,"i":"C"}],"v":37282,"lastV":37281}]}<|>1741941542879746947
+6:::119<|>1741941542886464312
+5:::{"name":"otUpdateApplied","args":[{"v":37282,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941542890465622
+5:120+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":186,"d":"C"},{"p":186,"i":"X"},{"p":186,"d":"X"}],"v":37283,"lastV":37282,"hash":"302deada5d881b4c6210b02e4a5c0ff7cbb88208"}]}<|>1741941544894943664
+6:::120<|>1741941544901526562
+5:::{"name":"otUpdateApplied","args":[{"v":37283,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941544905462432
+5:121+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":186,"i":"C"},{"p":186,"d":"C"},{"p":186,"i":"V"}],"v":37284,"lastV":37283}]}<|>1741941546909537854
+6:::121<|>1741941546915379078
+5:::{"name":"otUpdateApplied","args":[{"v":37284,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941546920153943
+5:122+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":187,"i":"E"}],"v":37285,"lastV":37284}]}<|>1741941548923448453
+6:::122<|>1741941548928649075
+5:::{"name":"otUpdateApplied","args":[{"v":37285,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941548932324777
+5:123+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":188,"i":"YS"}],"v":37286,"lastV":37285,"hash":"20ea17965e75fa7a99622c6106d5fca72456545b"}]}<|>1741941550936283078
+6:::123<|>1741941550941767574
+5:::{"name":"otUpdateApplied","args":[{"v":37286,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941550945650704
+5:124+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":190,"i":" O"}],"v":37287,"lastV":37286}]}<|>1741941552954970564
+6:::124<|>1741941552960724529
+5:::{"name":"otUpdateApplied","args":[{"v":37287,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941552964392387
+5:125+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":191,"d":"O"},{"p":191,"i":"P"}],"v":37288,"lastV":37287}]}<|>1741941554972528016
+6:::125<|>1741941554978657911
+5:::{"name":"otUpdateApplied","args":[{"v":37288,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941554981361511
+5:126+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":192,"i":"I"}],"v":37289,"lastV":37288,"hash":"e25450adf0f03b9004d5ea45000b4a6818622865"}]}<|>1741941556985800559
+6:::126<|>1741941556992206358
+5:::{"name":"otUpdateApplied","args":[{"v":37289,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941556995903991
+2::<|>1741941558332372079
+2::<|>1741941558334819937
+5:127+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":192,"d":"I"},{"p":192,"i":"O"}],"v":37290,"lastV":37289}]}<|>1741941559000039948
+6:::127<|>1741941559006914171
+5:::{"name":"otUpdateApplied","args":[{"v":37290,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941559008465226
+5:128+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":192,"d":"O"},{"p":192,"i":"UTS"}],"v":37291,"lastV":37290}]}<|>1741941561011467197
+6:::128<|>1741941561015856599
+5:::{"name":"otUpdateApplied","args":[{"v":37291,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941561020102785
+5:129+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":195,"i":" THE"}],"v":37292,"lastV":37291,"hash":"8421240d9efd075e33cad57e2eafa4426cc0400a"}]}<|>1741941563025736883
+6:::129<|>1741941563032177068
+5:::{"name":"otUpdateApplied","args":[{"v":37292,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941563036202493
+5:130+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":199,"i":"M I"}],"v":37293,"lastV":37292}]}<|>1741941565038519745
+6:::130<|>1741941565040617282
+5:::{"name":"otUpdateApplied","args":[{"v":37293,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941565042045119
+5:131+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":202,"i":"N A "}],"v":37294,"lastV":37293}]}<|>1741941567043874826
+6:::131<|>1741941567047162927
+5:::{"name":"otUpdateApplied","args":[{"v":37294,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941567049245990
+5:132+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":206,"i":"DEA"}],"v":37295,"lastV":37294,"hash":"e7e29a21bad6ed2c927343b80f8b41f1d654fa65"}]}<|>1741941569051301534
+6:::132<|>1741941569053310555
+5:::{"name":"otUpdateApplied","args":[{"v":37295,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941569054332200
+5:133+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":209,"i":"D HE"}],"v":37296,"lastV":37295}]}<|>1741941571057813497
+6:::133<|>1741941571059966965
+5:::{"name":"otUpdateApplied","args":[{"v":37296,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941571061883129
+5:134+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":213,"i":"AT"}],"v":37297,"lastV":37296}]}<|>1741941573064845300
+6:::134<|>1741941573069706091
+5:::{"name":"otUpdateApplied","args":[{"v":37297,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941573074112641
+5:135+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":215,"i":"¾"}],"v":37298,"lastV":37297,"hash":"f1ca4cd639d2bdbb100800adc3d415b2c2227d2d"}]}<|>1741941575078712754
+6:::135<|>1741941575083881735
+5:::{"name":"otUpdateApplied","args":[{"v":37298,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941575087844474
+2::<|>1741941583340200598
+2::<|>1741941583343342507
+5:136+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":215,"d":"¾"}],"v":37299,"lastV":37298,"hash":"65628e21c2b9737c451b31cf27657cfed8d334e0"}]}<|>1741941584070986750
+6:::136<|>1741941584076344941
+5:::{"name":"otUpdateApplied","args":[{"v":37299,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941584079250418
+5:137+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":215,"i":" "}],"v":37300,"lastV":37299,"hash":"cefe77eea6aeca52a1ace569d5262382cdc9a9b4"}]}<|>1741941597182078805
+6:::137<|>1741941597187998032
+5:::{"name":"otUpdateApplied","args":[{"v":37300,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941597192545488
+5:138+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":216,"i":"I "}],"v":37301,"lastV":37300,"hash":"9cce48a66076f1fa9562d3f04b843946b5b6803b"}]}<|>1741941602928737383
+6:::138<|>1741941602930736265
+5:::{"name":"otUpdateApplied","args":[{"v":37301,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941602932125977
+5:139+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":212,"d":"EAT I "},{"p":212,"i":"I"}],"v":37302,"lastV":37301}]}<|>1741941604934130346
+6:::139<|>1741941604937595675
+5:::{"name":"otUpdateApplied","args":[{"v":37302,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941604940608858
+5:140+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":213,"i":" M"}],"v":37303,"lastV":37302}]}<|>1741941606943083579
+6:::140<|>1741941606947614176
+5:::{"name":"otUpdateApplied","args":[{"v":37303,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941606952441900
+2::<|>1741941608345788638
+2::<|>1741941608347011959
+5:141+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":215,"i":"RA"},{"p":215,"d":"RA"},{"p":215,"i":"EA"}],"v":37304,"lastV":37303,"hash":"3c497bd9ee04a4a0916141c78e4209f1410c3670"}]}<|>1741941608957251521
+6:::141<|>1741941608963775653
+5:::{"name":"otUpdateApplied","args":[{"v":37304,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941608967554500
+5:142+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":217,"i":"NT T"}],"v":37305,"lastV":37304}]}<|>1741941610974396081
+6:::142<|>1741941610979182902
+5:::{"name":"otUpdateApplied","args":[{"v":37305,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941610982783030
+5:143+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":221,"i":"O TR"}],"v":37306,"lastV":37305}]}<|>1741941612986525739
+6:::143<|>1741941612992322094
+5:::{"name":"otUpdateApplied","args":[{"v":37306,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941612997168736
+5:144+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":225,"i":"T"},{"p":225,"d":"T"},{"p":225,"i":"Y"}],"v":37307,"lastV":37306,"hash":"ecd219868828e166d93abd885201a226f8820b15"}]}<|>1741941615000251906
+6:::144<|>1741941615005037821
+5:::{"name":"otUpdateApplied","args":[{"v":37307,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941615010059979
+5:145+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":226,"i":" ANF"}],"v":37308,"lastV":37307}]}<|>1741941617013079917
+6:::145<|>1741941617017905597
+5:::{"name":"otUpdateApplied","args":[{"v":37308,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941617022032502
+5:146+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":229,"d":"F"},{"p":229,"i":"D E"}],"v":37309,"lastV":37308}]}<|>1741941619024285900
+6:::146<|>1741941619028195208
+5:::{"name":"otUpdateApplied","args":[{"v":37309,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941619032974402
+5:147+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":232,"i":"X"}],"v":37310,"lastV":37309,"hash":"e900dfae933e8fb8cf5480018219e65c99059e55"}]}<|>1741941621036326938
+6:::147<|>1741941621041626593
+5:::{"name":"otUpdateApplied","args":[{"v":37310,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941621045034073
+5:148+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":233,"i":"PL"}],"v":37311,"lastV":37310}]}<|>1741941623047311922
+6:::148<|>1741941623049444585
+5:::{"name":"otUpdateApplied","args":[{"v":37311,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941623050358909
+5:149+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":235,"i":"AIN "}],"v":37312,"lastV":37311}]}<|>1741941625058785848
+6:::149<|>1741941625063781690
+5:::{"name":"otUpdateApplied","args":[{"v":37312,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941625066947153
+5:150+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":238,"d":" "}],"v":37313,"lastV":37312,"hash":"4db8651bd8a9e9f2ecabab682a782d6080f73677"}]}<|>1741941627071365132
+6:::150<|>1741941627076536375
+5:::{"name":"otUpdateApplied","args":[{"v":37313,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941627082490827
+5:151+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":238,"i":"¼ "}],"v":37314,"lastV":37313}]}<|>1741941629087084289
+6:::151<|>1741941629092492732
+5:::{"name":"otUpdateApplied","args":[{"v":37314,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941629096488984
+5:152+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":240,"i":"NO"}],"v":37315,"lastV":37314}]}<|>1741941631100080730
+6:::152<|>1741941631104834194
+5:::{"name":"otUpdateApplied","args":[{"v":37315,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941631107797596
+5:153+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":242,"i":"T "}],"v":37316,"lastV":37315,"hash":"d6ab1c3012d4b22223655fe637561f1a6097c36d"}]}<|>1741941633121901006
+6:::153<|>1741941633127192237
+5:::{"name":"otUpdateApplied","args":[{"v":37316,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941633131764875
+2::<|>1741941633348490621
+2::<|>1741941633349506266
+5:154+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":244,"i":"TO "}],"v":37317,"lastV":37316}]}<|>1741941635135731622
+6:::154<|>1741941635141183314
+5:::{"name":"otUpdateApplied","args":[{"v":37317,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941635144304062
+5:155+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":247,"i":"RES"},{"p":249,"d":"S"}],"v":37318,"lastV":37317}]}<|>1741941637148926788
+6:::155<|>1741941637155035500
+5:::{"name":"otUpdateApplied","args":[{"v":37318,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941637160304687
+5:156+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":249,"i":"S"},{"p":249,"d":"S"},{"p":249,"i":"D"}],"v":37319,"lastV":37318,"hash":"3b356b76cecf3899d0cbbd8ed3737483c9604ef6"}]}<|>1741941639165176638
+6:::156<|>1741941639171153738
+5:::{"name":"otUpdateApplied","args":[{"v":37319,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941639174706206
+5:157+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":250,"i":"O¾"}],"v":37320,"lastV":37319}]}<|>1741941641179051429
+6:::157<|>1741941641184960119
+5:::{"name":"otUpdateApplied","args":[{"v":37320,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941641188989586
+5:158+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":252,"i":"WHA"}],"v":37321,"lastV":37320,"hash":"0cf0f9006861177ae4fabae669fce690743acb5d"}]}<|>1741941651515362486
+6:::158<|>1741941651521490076
+5:::{"name":"otUpdateApplied","args":[{"v":37321,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941651527254044
+5:159+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":255,"i":"T L"}],"v":37322,"lastV":37321}]}<|>1741941653531724508
+6:::159<|>1741941653538122485
+5:::{"name":"otUpdateApplied","args":[{"v":37322,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941653541370099
+5:160+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":258,"i":"EC"}],"v":37323,"lastV":37322}]}<|>1741941655545614002
+6:::160<|>1741941655551179957
+5:::{"name":"otUpdateApplied","args":[{"v":37323,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941655554863480
+5:161+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":259,"d":"C"},{"p":259,"i":"X"},{"p":259,"d":"X"},{"p":259,"i":"C"}],"v":37324,"lastV":37323,"hash":"5b839dac551c8778e621df2818363b70cb212cd9"}]}<|>1741941657557239857
+6:::161<|>1741941657559559737
+5:::{"name":"otUpdateApplied","args":[{"v":37324,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941657560848615
+2::<|>1741941658353112770
+2::<|>1741941658356380195
+5:162+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":259,"d":"C"},{"p":259,"i":"VE"}],"v":37325,"lastV":37324}]}<|>1741941659562909491
+6:::162<|>1741941659567185882
+5:::{"name":"otUpdateApplied","args":[{"v":37325,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941659570234567
+5:163+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":261,"i":"L O"}],"v":37326,"lastV":37325}]}<|>1741941661575343983
+6:::163<|>1741941661582480608
+5:::{"name":"otUpdateApplied","args":[{"v":37326,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941661586455836
+5:164+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":264,"i":"F "}],"v":37327,"lastV":37326,"hash":"b21a5f757b1ff8702abd856dd32a79706eed7dd9"}]}<|>1741941663591818731
+6:::164<|>1741941663598536456
+5:::{"name":"otUpdateApplied","args":[{"v":37327,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941663602854390
+5:165+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":266,"i":"DER"}],"v":37328,"lastV":37327,"hash":"73e972c63af36f25ee56d2e1bcad80ea01f278bd"}]}<|>1741941669035262032
+6:::165<|>1741941669041207253
+5:::{"name":"otUpdateApplied","args":[{"v":37328,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941669045523419
+5:166+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":269,"i":"»T"},{"p":268,"d":"R»T"},{"p":268,"i":"T"}],"v":37329,"lastV":37328}]}<|>1741941671049816036
+6:::166<|>1741941671055488371
+5:::{"name":"otUpdateApplied","args":[{"v":37329,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941671059420586
+5:167+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":269,"i":"AO"}],"v":37330,"lastV":37329}]}<|>1741941673064828743
+6:::167<|>1741941673071255998
+5:::{"name":"otUpdateApplied","args":[{"v":37330,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941673074539727
+5:168+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":271,"i":"º"},{"p":270,"d":"Oº"}],"v":37331,"lastV":37330,"hash":"f88db6134fcb5ee7b1a6035d679702dbaa262318"}]}<|>1741941675076934388
+6:::168<|>1741941675078948142
+5:::{"name":"otUpdateApplied","args":[{"v":37331,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941675080455890
+5:169+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":270,"i":"IL"}],"v":37332,"lastV":37331}]}<|>1741941677084136198
+6:::169<|>1741941677090386689
+5:::{"name":"otUpdateApplied","args":[{"v":37332,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941677094002803
+5:170+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":272,"i":" DO"}],"v":37333,"lastV":37332,"hash":"5444f9c96ac6b316256dc5c9a5ba98931dff854d"}]}<|>1741941682316269335
+6:::170<|>1741941682322891901
+5:::{"name":"otUpdateApplied","args":[{"v":37333,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941682326456596
+2::<|>1741941683360546282
+2::<|>1741941683363847692
+5:171+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":275,"i":" YO"}],"v":37334,"lastV":37333}]}<|>1741941684329674049
+6:::171<|>1741941684334727910
+5:::{"name":"otUpdateApplied","args":[{"v":37334,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941684337814491
+5:172+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":278,"i":"I"},{"p":278,"d":"I"}],"v":37335,"lastV":37334}]}<|>1741941686342063478
+6:::172<|>1741941686348418317
+5:::{"name":"otUpdateApplied","args":[{"v":37335,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941686351874084
+5:173+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":278,"i":"J"},{"p":278,"d":"J"},{"p":278,"i":"O"}],"v":37336,"lastV":37335,"hash":"cc7cda6de6231a11e80bc17915d6623b341265e9"}]}<|>1741941688356022075
+6:::173<|>1741941688362139335
+5:::{"name":"otUpdateApplied","args":[{"v":37336,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941688365389516
+5:174+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":278,"d":"O"},{"p":278,"i":"I"},{"p":278,"d":"I"},{"p":278,"i":"U"},{"p":278,"d":"U"}],"v":37337,"lastV":37336}]}<|>1741941690369320765
+6:::174<|>1741941690375372344
+5:::{"name":"otUpdateApplied","args":[{"v":37337,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941690379577922
+5:175+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":278,"i":"U       "}],"v":37338,"lastV":37337}]}<|>1741941692382985257
+6:::175<|>1741941692387707787
+5:::{"name":"otUpdateApplied","args":[{"v":37338,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941692391473438
+5:176+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":286,"i":"          "}],"v":37339,"lastV":37338,"hash":"10fad6b711b2dbd04d6fb2fbe6e869dcf98726ed"}]}<|>1741941694394916624
+6:::176<|>1741941694400576210
+5:::{"name":"otUpdateApplied","args":[{"v":37339,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941694403254420
+5:177+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":296,"i":"   NRR"}],"v":37340,"lastV":37339}]}<|>1741941696407561994
+6:::177<|>1741941696414059654
+5:::{"name":"otUpdateApplied","args":[{"v":37340,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941696417624721
+5:178+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":300,"d":"RR"},{"p":300,"i":"TT"},{"p":300,"d":"TT"},{"p":300,"i":"RR"}],"v":37341,"lastV":37340}]}<|>1741941698420569911
+6:::178<|>1741941698425669362
+5:::{"name":"otUpdateApplied","args":[{"v":37341,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941698428853433
+5:179+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":301,"d":"R"},{"p":301,"i":"E"},{"p":300,"d":"RE"},{"p":300,"i":"EE"}],"v":37342,"lastV":37341,"hash":"b592c7d5af84cc7b19e750bcbaa1110ec33a74d2"}]}<|>1741941700432880558
+6:::179<|>1741941700438733656
+5:::{"name":"otUpdateApplied","args":[{"v":37342,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941700442632219
+5:180+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":302,"i":"S"},{"p":302,"d":"S"},{"p":302,"i":"D"}],"v":37343,"lastV":37342}]}<|>1741941702447090789
+6:::180<|>1741941702453169487
+5:::{"name":"otUpdateApplied","args":[{"v":37343,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941702457091185
+5:181+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":303,"i":"¿"}],"v":37344,"lastV":37343}]}<|>1741941704459613730
+6:::181<|>1741941704462971052
+5:::{"name":"otUpdateApplied","args":[{"v":37344,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941704464570774
+2::<|>1741941708367719873
+2::<|>1741941708371280069
+5:182+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":304,"i":"B "},{"p":304,"d":"B "},{"p":304,"i":" "}],"v":37345,"lastV":37344,"hash":"40d1b5a10062aa4af540c989f9bd37ad2f37a58f"}]}<|>1741941709085345108
+6:::182<|>1741941709090206858
+5:::{"name":"otUpdateApplied","args":[{"v":37345,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941709093559421
+5:183+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":304,"d":" "}],"v":37346,"lastV":37345}]}<|>1741941711097247987
+6:::183<|>1741941711102175853
+5:::{"name":"otUpdateApplied","args":[{"v":37346,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941711103776847
+5:184+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":304,"i":" "}],"v":37347,"lastV":37346}]}<|>1741941713107974357
+6:::184<|>1741941713112961116
+5:::{"name":"otUpdateApplied","args":[{"v":37347,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941713117002524
+5:185+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":305,"i":"NEED"}],"v":37348,"lastV":37347,"hash":"9d4d4fd858b8698e37b271531422ef581d42c8a1"}]}<|>1741941715121181204
+6:::185<|>1741941715125397122
+5:::{"name":"otUpdateApplied","args":[{"v":37348,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941715127165953
+5:186+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":309,"i":"¿"}],"v":37349,"lastV":37348}]}<|>1741941717128874855
+6:::186<|>1741941717130494892
+5:::{"name":"otUpdateApplied","args":[{"v":37349,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941717132543720
+5:187+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":310,"i":"THE "}],"v":37350,"lastV":37349,"hash":"6d1d588befc36dac346a82f8f3d134bc5c8979ef"}]}<|>1741941733040716071
+6:::187<|>1741941733046530614
+5:::{"name":"otUpdateApplied","args":[{"v":37350,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941733050984735
+2::<|>1741941733376403009
+2::<|>1741941733379592820
+5:188+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":314,"i":"C"}],"v":37351,"lastV":37350}]}<|>1741941735054416078
+6:::188<|>1741941735060290665
+5:::{"name":"otUpdateApplied","args":[{"v":37351,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941735064500600
+5:189+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":315,"i":"HA"}],"v":37352,"lastV":37351}]}<|>1741941737068363043
+6:::189<|>1741941737074119252
+5:::{"name":"otUpdateApplied","args":[{"v":37352,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941737078410027
+5:190+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":317,"i":"T"},{"p":317,"d":"T"},{"p":317,"i":"R"}],"v":37353,"lastV":37352,"hash":"403f52ef4cebf17948dec0e7d26209453fbbc56b"}]}<|>1741941739083364639
+6:::190<|>1741941739088316198
+5:::{"name":"otUpdateApplied","args":[{"v":37353,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941739093061366
+5:191+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":318,"i":"FE"},{"p":318,"d":"FE"}],"v":37354,"lastV":37353}]}<|>1741941741096888319
+6:::191<|>1741941741102019977
+5:::{"name":"otUpdateApplied","args":[{"v":37354,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941741106751518
+5:192+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":318,"i":"GF"},{"p":319,"d":"F"}],"v":37355,"lastV":37354}]}<|>1741941743110736029
+6:::192<|>1741941743116097603
+5:::{"name":"otUpdateApplied","args":[{"v":37355,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941743119650008
+5:193+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":319,"i":"ES "}],"v":37356,"lastV":37355,"hash":"50e4776b04cf491ebd272753978543731a2c0f09"}]}<|>1741941745123506185
+6:::193<|>1741941745127935539
+5:::{"name":"otUpdateApplied","args":[{"v":37356,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941745132099006
+5:194+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":322,"i":"ALSO "}],"v":37357,"lastV":37356}]}<|>1741941747133587812
+6:::194<|>1741941747138722644
+5:::{"name":"otUpdateApplied","args":[{"v":37357,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941747142575191
+5:195+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":327,"i":"CO"}],"v":37358,"lastV":37357}]}<|>1741941749145748042
+6:::195<|>1741941749150518570
+5:::{"name":"otUpdateApplied","args":[{"v":37358,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941749154751506
+5:196+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":329,"i":"VER"}],"v":37359,"lastV":37358,"hash":"0aef2d2a9f988cedec32a7978d04aea431e9e065"}]}<|>1741941751159378741
+6:::196<|>1741941751164121085
+5:::{"name":"otUpdateApplied","args":[{"v":37359,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941751168891699
+5:197+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":332,"i":" HIS "}],"v":37360,"lastV":37359}]}<|>1741941753173379151
+6:::197<|>1741941753179524623
+5:::{"name":"otUpdateApplied","args":[{"v":37360,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941753182937292
+5:198+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":337,"i":"RELA"}],"v":37361,"lastV":37360}]}<|>1741941755186026963
+6:::198<|>1741941755190652121
+5:::{"name":"otUpdateApplied","args":[{"v":37361,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941755193558376
+5:199+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":341,"i":"TIO"}],"v":37362,"lastV":37361,"hash":"5cd2dbea3eea9c705456d92f082c2c18b0338bb1"}]}<|>1741941757197945691
+6:::199<|>1741941757202947163
+5:::{"name":"otUpdateApplied","args":[{"v":37362,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941757206812893
+2::<|>1741941758384559214
+2::<|>1741941758387818725
+5:200+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":344,"i":"NS"}],"v":37363,"lastV":37362}]}<|>1741941759211019608
+6:::200<|>1741941759217212340
+5:::{"name":"otUpdateApplied","args":[{"v":37363,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941759219500336
+5:201+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":346,"i":" E"}],"v":37364,"lastV":37363}]}<|>1741941761223741487
+6:::201<|>1741941761229572530
+5:::{"name":"otUpdateApplied","args":[{"v":37364,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941761234895711
+5:202+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":347,"d":"E"}],"v":37365,"lastV":37364,"hash":"aacea5d297b97255866d4f449cf54cc2d79615dd"}]}<|>1741941763239498033
+6:::202<|>1741941763244834107
+5:::{"name":"otUpdateApplied","args":[{"v":37365,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941763249901078
+5:203+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":347,"i":"W"}],"v":37366,"lastV":37365}]}<|>1741941765253676025
+6:::203<|>1741941765259429982
+5:::{"name":"otUpdateApplied","args":[{"v":37366,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941765263022306
+5:204+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":348,"i":"ITH"}],"v":37367,"lastV":37366}]}<|>1741941767265234296
+6:::204<|>1741941767267621331
+5:::{"name":"otUpdateApplied","args":[{"v":37367,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941767269382170
+5:205+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":351,"i":" A"}],"v":37368,"lastV":37367,"hash":"1b70986a7a51d7667d040145051c35272a3e2e5c"}]}<|>1741941769270966127
+6:::205<|>1741941769273371596
+5:::{"name":"otUpdateApplied","args":[{"v":37368,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941769275138520
+5:206+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":353,"i":"F"},{"p":353,"d":"F"},{"p":353,"i":"G"},{"p":353,"d":"G"}],"v":37369,"lastV":37368,"hash":"1b70986a7a51d7667d040145051c35272a3e2e5c"}]}<|>1741941777428425982
+6:::206<|>1741941777434657301
+5:::{"name":"otUpdateApplied","args":[{"v":37369,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941777439259293
+5:207+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":353,"i":"D"}],"v":37370,"lastV":37369}]}<|>1741941779441615001
+6:::207<|>1741941779444589960
+5:::{"name":"otUpdateApplied","args":[{"v":37370,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941779446072678
+5:208+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":354,"i":"VERT"}],"v":37371,"lastV":37370}]}<|>1741941781447660374
+6:::208<|>1741941781449718674
+5:::{"name":"otUpdateApplied","args":[{"v":37371,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941781450815373
+2::<|>1741941783392370695
+2::<|>1741941783395233995
+5:209+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":358,"i":"O"},{"p":358,"d":"O"},{"p":358,"i":"I"}],"v":37372,"lastV":37371,"hash":"7c83a59b7e98f96e8c9ecd5bdf2737b1e710b7f3"}]}<|>1741941785531304951
+6:::209<|>1741941785537070734
+5:::{"name":"otUpdateApplied","args":[{"v":37372,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941785541496142
+5:210+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":359,"i":"SIN"}],"v":37373,"lastV":37372}]}<|>1741941787545230773
+6:::210<|>1741941787551046236
+5:::{"name":"otUpdateApplied","args":[{"v":37373,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941787553808398
+5:211+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":362,"i":"G "}],"v":37374,"lastV":37373}]}<|>1741941789557657581
+6:::211<|>1741941789562981197
+5:::{"name":"otUpdateApplied","args":[{"v":37374,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941789567507878
+5:212+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":364,"i":"CO"}],"v":37375,"lastV":37374,"hash":"b85c656999822d1598f1c0d16e5e0e30f0a69907"}]}<|>1741941796115920106
+6:::212<|>1741941796118731077
+5:::{"name":"otUpdateApplied","args":[{"v":37375,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941796122235838
+5:213+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":366,"i":"M"}],"v":37376,"lastV":37375}]}<|>1741941798125938259
+6:::213<|>1741941798131387214
+5:::{"name":"otUpdateApplied","args":[{"v":37376,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941798134444741
+5:214+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":367,"i":"PA"}],"v":37377,"lastV":37376}]}<|>1741941800137526892
+6:::214<|>1741941800142541249
+5:::{"name":"otUpdateApplied","args":[{"v":37377,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941800146413760
+5:215+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":369,"i":"NIE"}],"v":37378,"lastV":37377,"hash":"f08a420da6289a52712be072d437bad8d45cf861"}]}<|>1741941802150842798
+6:::215<|>1741941802156951328
+5:::{"name":"otUpdateApplied","args":[{"v":37378,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941802160483522
+5:216+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":372,"i":"S¾"}],"v":37379,"lastV":37378}]}<|>1741941804164247112
+6:::216<|>1741941804169980299
+5:::{"name":"otUpdateApplied","args":[{"v":37379,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941804173609659
+2::<|>1741941808399744426
+2::<|>1741941808402822271
+5:217+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":374,"i":"CAN"}],"v":37380,"lastV":37379,"hash":"f09f2ae743e1c7821ee94c73fed07ad4f154ec1d"}]}<|>1741941810865853198
+6:::217<|>1741941810867859403
+5:::{"name":"otUpdateApplied","args":[{"v":37380,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941810869780650
+5:218+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":377,"i":" "}],"v":37381,"lastV":37380}]}<|>1741941812872688766
+6:::218<|>1741941812879208981
+5:::{"name":"otUpdateApplied","args":[{"v":37381,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941812882406984
+5:219+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":378,"i":"Y"}],"v":37382,"lastV":37381}]}<|>1741941814885276620
+6:::219<|>1741941814890476288
+5:::{"name":"otUpdateApplied","args":[{"v":37382,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941814895104397
+5:220+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":379,"i":"O"}],"v":37383,"lastV":37382,"hash":"30ab22faac23f232288e8dc4da9221d6afc1c4ec"}]}<|>1741941816899326233
+6:::220<|>1741941816905279717
+5:::{"name":"otUpdateApplied","args":[{"v":37383,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941816909785855
+5:221+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":380,"i":"U "}],"v":37384,"lastV":37383}]}<|>1741941818911884419
+6:::221<|>1741941818914803492
+5:::{"name":"otUpdateApplied","args":[{"v":37384,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941818917510775
+5:222+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":382,"i":"S"}],"v":37385,"lastV":37384}]}<|>1741941820921696337
+6:::222<|>1741941820927917118
+5:::{"name":"otUpdateApplied","args":[{"v":37385,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941820932600103
+5:223+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":383,"i":"U"}],"v":37386,"lastV":37385,"hash":"339d7ea40ec894e41990b5a9f88fe0a6bef51666"}]}<|>1741941826989681968
+6:::223<|>1741941826995841760
+5:::{"name":"otUpdateApplied","args":[{"v":37386,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941826999803264
+5:224+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":384,"i":"PP"}],"v":37387,"lastV":37386}]}<|>1741941829002075998
+6:::224<|>1741941829005402854
+5:::{"name":"otUpdateApplied","args":[{"v":37387,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941829007310170
+5:225+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":386,"i":"LE"}],"v":37388,"lastV":37387}]}<|>1741941831009571873
+6:::225<|>1741941831014421320
+5:::{"name":"otUpdateApplied","args":[{"v":37388,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941831018101773
+5:226+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":388,"i":"MENT"}],"v":37389,"lastV":37388,"hash":"43fe96cc6069047cd151d5bafd7c5ca2a1a671b1"}]}<|>1741941833021284006
+6:::226<|>1741941833025825622
+5:::{"name":"otUpdateApplied","args":[{"v":37389,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941833029287832
+2::<|>1741941833406497405
+2::<|>1741941833409201653
+5:227+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":392,"i":" THH"}],"v":37390,"lastV":37389}]}<|>1741941835031147896
+6:::227<|>1741941835032998278
+5:::{"name":"otUpdateApplied","args":[{"v":37390,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941835034791656
+5:228+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":395,"d":"H"},{"p":395,"i":"E"}],"v":37391,"lastV":37390}]}<|>1741941837037736327
+6:::228<|>1741941837043199947
+5:::{"name":"otUpdateApplied","args":[{"v":37391,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941837046674644
+5:229+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":396,"i":" AN"}],"v":37392,"lastV":37391,"hash":"98767bbd8996208f460d793e7eae6120ae47804b"}]}<|>1741941839050974359
+6:::229<|>1741941839056175402
+5:::{"name":"otUpdateApplied","args":[{"v":37392,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941839059971268
+5:230+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":399,"i":"D"},{"p":399,"d":"D"}],"v":37393,"lastV":37392}]}<|>1741941841064243638
+6:::230<|>1741941841070169162
+5:::{"name":"otUpdateApplied","args":[{"v":37393,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941841074082026
+5:231+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":399,"i":"C"}],"v":37394,"lastV":37393}]}<|>1741941843078073954
+6:::231<|>1741941843083379342
+5:::{"name":"otUpdateApplied","args":[{"v":37394,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941843087720187
+5:232+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":399,"d":"C"},{"p":399,"i":"S"}],"v":37395,"lastV":37394,"hash":"e1672d9f107d139eff0acb416a4be62b271df2ff"}]}<|>1741941845091658007
+6:::232<|>1741941845097060014
+5:::{"name":"otUpdateApplied","args":[{"v":37395,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941845100584422
+5:233+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":400,"i":"WE"}],"v":37396,"lastV":37395}]}<|>1741941847102804458
+6:::233<|>1741941847105413719
+5:::{"name":"otUpdateApplied","args":[{"v":37396,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941847107387580
+5:234+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":402,"i":"R T"}],"v":37397,"lastV":37396}]}<|>1741941849108894649
+6:::234<|>1741941849111078995
+5:::{"name":"otUpdateApplied","args":[{"v":37397,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941849112831227
+5:235+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":405,"i":"O"},{"p":405,"d":"O"}],"v":37398,"lastV":37397,"hash":"de5cfdb2dc2eaacef0c2f69c8a65397868e7f3bb"}]}<|>1741941851114400325
+6:::235<|>1741941851116826587
+5:::{"name":"otUpdateApplied","args":[{"v":37398,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941851118880804
+5:236+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":405,"i":" THE"}],"v":37399,"lastV":37398}]}<|>1741941853120515693
+6:::236<|>1741941853122766647
+5:::{"name":"otUpdateApplied","args":[{"v":37399,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941853124750440
+5:237+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":409,"i":" C"}],"v":37400,"lastV":37399}]}<|>1741941855128277772
+6:::237<|>1741941855134256550
+5:::{"name":"otUpdateApplied","args":[{"v":37400,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941855139118506
+5:238+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":410,"d":"C"},{"p":410,"i":"V"}],"v":37401,"lastV":37400,"hash":"2f5eed36dd589592dcda296765211a062ff8054e"}]}<|>1741941857158556375
+6:::238<|>1741941857164343740
+5:::{"name":"otUpdateApplied","args":[{"v":37401,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941857168637487
+2::<|>1741941858414040367
+2::<|>1741941858417273521
+5:239+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":411,"i":"O"},{"p":411,"d":"O"}],"v":37402,"lastV":37401}]}<|>1741941859172582542
+6:::239<|>1741941859178035153
+5:::{"name":"otUpdateApplied","args":[{"v":37402,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941859182455557
+5:240+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":411,"i":"ISA "}],"v":37403,"lastV":37402}]}<|>1741941861186183211
+6:::240<|>1741941861193233181
+5:::{"name":"otUpdateApplied","args":[{"v":37403,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941861196933098
+5:241+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":415,"i":"QU"}],"v":37404,"lastV":37403,"hash":"0b7a33830db81543b5b6076770e70d3543d1f369"}]}<|>1741941863205056229
+6:::241<|>1741941863207006578
+5:::{"name":"otUpdateApplied","args":[{"v":37404,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941863208292671
+5:242+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":417,"i":"ES"}],"v":37405,"lastV":37404}]}<|>1741941865211502035
+6:::242<|>1741941865217634541
+5:::{"name":"otUpdateApplied","args":[{"v":37405,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941865221369596
+5:243+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":419,"i":"TI"},{"p":420,"d":"I"}],"v":37406,"lastV":37405}]}<|>1741941867225181696
+6:::243<|>1741941867231371379
+5:::{"name":"otUpdateApplied","args":[{"v":37406,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941867234882812
+5:244+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":420,"i":"KO"},{"p":421,"d":"O"}],"v":37407,"lastV":37406,"hash":"34450f7a6b40a396fdb9df99e005dd0426fe1fa4"}]}<|>1741941869241149037
+6:::244<|>1741941869247090768
+5:::{"name":"otUpdateApplied","args":[{"v":37407,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941869251838237
+5:245+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":420,"d":"K"},{"p":420,"i":"I"}],"v":37408,"lastV":37407}]}<|>1741941871255458513
+6:::245<|>1741941871260681908
+5:::{"name":"otUpdateApplied","args":[{"v":37408,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941871264038832
+5:246+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":421,"i":"OM"}],"v":37409,"lastV":37408}]}<|>1741941873266265526
+6:::246<|>1741941873268574792
+5:::{"name":"otUpdateApplied","args":[{"v":37409,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941873270141729
+5:247+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":422,"d":"M"}],"v":37410,"lastV":37409,"hash":"f2184939facdf8af908e5d79aafd69cc39ef9fde"}]}<|>1741941875273553976
+6:::247<|>1741941875278890154
+5:::{"name":"otUpdateApplied","args":[{"v":37410,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941875282290058
+5:248+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":422,"i":"N¿"}],"v":37411,"lastV":37410}]}<|>1741941877284036450
+6:::248<|>1741941877285678163
+5:::{"name":"otUpdateApplied","args":[{"v":37411,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941877286955473
+2::<|>1741941883421427269
+2::<|>1741941883424567854
+5:249+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":424,"i":"I D"}],"v":37412,"lastV":37411,"hash":"ceb94028ca83135a9f0987b3d6fdb19be73f64e2"}]}<|>1741941889819815888
+6:::249<|>1741941889826164271
+5:::{"name":"otUpdateApplied","args":[{"v":37412,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941889831807092
+5:250+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":427,"i":"O"}],"v":37413,"lastV":37412}]}<|>1741941891836152753
+6:::250<|>1741941891841622575
+5:::{"name":"otUpdateApplied","args":[{"v":37413,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941891845961929
+5:251+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":428,"i":"N"}],"v":37414,"lastV":37413}]}<|>1741941893848063465
+6:::251<|>1741941893850335223
+5:::{"name":"otUpdateApplied","args":[{"v":37414,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941893852170702
+5:252+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":429,"i":"ºL"}],"v":37415,"lastV":37414,"hash":"6e453908c3cc73bd95c3b708af41dbb5df995ce5"}]}<|>1741941895854941349
+6:::252<|>1741941895860614038
+5:::{"name":"otUpdateApplied","args":[{"v":37415,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941895863074223
+5:253+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":429,"d":"ºL"},{"p":429,"i":"K"}],"v":37416,"lastV":37415}]}<|>1741941897865999158
+6:::253<|>1741941897870408148
+5:::{"name":"otUpdateApplied","args":[{"v":37416,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941897875131670
+5:254+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":429,"d":"K"},{"p":429,"i":"º"},{"p":429,"d":"º"}],"v":37417,"lastV":37416}]}<|>1741941899879247787
+6:::254<|>1741941899885176498
+5:::{"name":"otUpdateApplied","args":[{"v":37417,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941899890199275
+5:255+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":429,"i":"ÞT"}],"v":37418,"lastV":37417,"hash":"85e645fe9c087d738a8b833bbe5644f6a5acc98d"}]}<|>1741941901892537951
+6:::255<|>1741941901895582988
+5:::{"name":"otUpdateApplied","args":[{"v":37418,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941901898452096
+5:256+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":431,"i":" "}],"v":37419,"lastV":37418}]}<|>1741941903901855979
+6:::256<|>1741941903906824998
+5:::{"name":"otUpdateApplied","args":[{"v":37419,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941903912663098
+5:257+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":432,"i":"HAV"}],"v":37420,"lastV":37419}]}<|>1741941905916644163
+6:::257<|>1741941905922136983
+5:::{"name":"otUpdateApplied","args":[{"v":37420,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941905926458013
+5:258+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":435,"i":"E TH"}],"v":37421,"lastV":37420,"hash":"e3af053eb5859fc7acc6f2e637a3857d2a59c016"}]}<|>1741941907929612668
+6:::258<|>1741941907934078092
+5:::{"name":"otUpdateApplied","args":[{"v":37421,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941907937165297
+2::<|>1741941908426907397
+2::<|>1741941908427727768
+5:259+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":439,"i":"E D"}],"v":37422,"lastV":37421}]}<|>1741941909941245359
+6:::259<|>1741941909946940345
+5:::{"name":"otUpdateApplied","args":[{"v":37422,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941909951933677
+5:260+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":442,"i":"IS"}],"v":37423,"lastV":37422}]}<|>1741941911956478759
+6:::260<|>1741941911963399859
+5:::{"name":"otUpdateApplied","args":[{"v":37423,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941911968584649
+5:261+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":444,"i":"TR"}],"v":37424,"lastV":37423,"hash":"ed8970fdcef14606b878b4aa22efb9db27e39024"}]}<|>1741941913977421446
+6:::261<|>1741941913981991102
+5:::{"name":"otUpdateApplied","args":[{"v":37424,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941913986683663
+5:262+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":446,"i":"AC"}],"v":37425,"lastV":37424}]}<|>1741941915990198624
+6:::262<|>1741941915994740239
+5:::{"name":"otUpdateApplied","args":[{"v":37425,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941915999652063
+5:263+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":448,"i":"TI"}],"v":37426,"lastV":37425}]}<|>1741941918001595403
+6:::263<|>1741941918003578104
+5:::{"name":"otUpdateApplied","args":[{"v":37426,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941918005827154
+5:264+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":450,"i":"OM"},{"p":451,"d":"M"}],"v":37427,"lastV":37426,"hash":"5046d047556504085b8c075540c6fffd4977763b"}]}<|>1741941920005152274
+6:::264<|>1741941920009932511
+5:::{"name":"otUpdateApplied","args":[{"v":37427,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941920013608502
+5:265+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":451,"i":"N O"}],"v":37428,"lastV":37427}]}<|>1741941922015832757
+6:::265<|>1741941922018034291
+5:::{"name":"otUpdateApplied","args":[{"v":37428,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941922019937726
+5:266+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":454,"i":"G"},{"p":454,"d":"G"},{"p":454,"i":"F"}],"v":37429,"lastV":37428}]}<|>1741941924023404635
+6:::266<|>1741941924029288987
+5:::{"name":"otUpdateApplied","args":[{"v":37429,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941924032301042
+5:267+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":455,"i":" "}],"v":37430,"lastV":37429,"hash":"8f925e1c000a45c7191fc8360e8a55394dc101a1"}]}<|>1741941926034584394
+6:::267<|>1741941926036677510
+5:::{"name":"otUpdateApplied","args":[{"v":37430,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941926038326927
+5:268+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":456,"i":"TA"}],"v":37431,"lastV":37430}]}<|>1741941928040636326
+6:::268<|>1741941928045212499
+5:::{"name":"otUpdateApplied","args":[{"v":37431,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941928048569450
+5:269+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":458,"i":"KI"}],"v":37432,"lastV":37431}]}<|>1741941930051816901
+6:::269<|>1741941930054926118
+5:::{"name":"otUpdateApplied","args":[{"v":37432,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941930058496350
+5:270+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":460,"i":"N"}],"v":37433,"lastV":37432,"hash":"311a5ec7333759ea58f80be62a8647ff481e8ae2"}]}<|>1741941932060525187
+6:::270<|>1741941932061956341
+5:::{"name":"otUpdateApplied","args":[{"v":37433,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941932063142111
+2::<|>1741941933430739500
+2::<|>1741941933433839003
+5:271+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":461,"i":"H"},{"p":461,"d":"H"}],"v":37434,"lastV":37433}]}<|>1741941934065292734
+6:::271<|>1741941934069755059
+5:::{"name":"otUpdateApplied","args":[{"v":37434,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941934073620078
+5:272+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":461,"i":"G "}],"v":37435,"lastV":37434}]}<|>1741941936075785024
+6:::272<|>1741941936077725472
+5:::{"name":"otUpdateApplied","args":[{"v":37435,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941936078821755
+5:273+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":463,"i":"VARE"}],"v":37436,"lastV":37435,"hash":"2de9e9fb6c82a28029d42d0b3a94dd3b3154d2a0"}]}<|>1741941938080255480
+6:::273<|>1741941938082543699
+5:::{"name":"otUpdateApplied","args":[{"v":37436,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941938084452987
+5:274+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":463,"d":"VARE"}],"v":37437,"lastV":37436}]}<|>1741941940085801238
+6:::274<|>1741941940088329475
+5:::{"name":"otUpdateApplied","args":[{"v":37437,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941940090675386
+5:275+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":463,"i":"CARE"}],"v":37438,"lastV":37437}]}<|>1741941942092288442
+6:::275<|>1741941942094728321
+5:::{"name":"otUpdateApplied","args":[{"v":37438,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941942097255251
+5:276+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":467,"i":" "}],"v":37439,"lastV":37438,"hash":"b502e731cb346a5bbcb797a26bc3122990eac69c"}]}<|>1741941944099113489
+6:::276<|>1741941944102374580
+5:::{"name":"otUpdateApplied","args":[{"v":37439,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941944105080473
+5:277+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":468,"i":"OF"}],"v":37440,"lastV":37439}]}<|>1741941946107109934
+6:::277<|>1741941946109277729
+5:::{"name":"otUpdateApplied","args":[{"v":37440,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941946110680069
+5:278+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":470,"i":" MI"}],"v":37441,"lastV":37440}]}<|>1741941948113959833
+6:::278<|>1741941948117634601
+5:::{"name":"otUpdateApplied","args":[{"v":37441,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941948118632125
+5:279+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":473,"i":"MI"}],"v":37442,"lastV":37441,"hash":"29744b52fb5b2c2f45eab300a9ef0f278b6c4ba3"}]}<|>1741941950121884687
+6:::279<|>1741941950126818045
+5:::{"name":"otUpdateApplied","args":[{"v":37442,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941950128285198
+5:280+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":475,"i":"¾"}],"v":37443,"lastV":37442}]}<|>1741941952129737133
+6:::280<|>1741941952132243480
+5:::{"name":"otUpdateApplied","args":[{"v":37443,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941952134088546
+2::<|>1741941958437307791
+2::<|>1741941958438292082
+5:281+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":476,"i":"I WA"}],"v":37444,"lastV":37443,"hash":"5ec96cb9842bfce0f61ffe2253cc88feef42624a"}]}<|>1741941963263065422
+6:::281<|>1741941963265783416
+5:::{"name":"otUpdateApplied","args":[{"v":37444,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941963267534154
+5:282+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":480,"i":"NTED "}],"v":37445,"lastV":37444}]}<|>1741941965268969214
+6:::282<|>1741941965271545622
+5:::{"name":"otUpdateApplied","args":[{"v":37445,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941965273336249
+5:283+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":485,"i":"TO G"}],"v":37446,"lastV":37445}]}<|>1741941967274976137
+6:::283<|>1741941967277316862
+5:::{"name":"otUpdateApplied","args":[{"v":37446,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941967278396993
+5:284+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":489,"i":"ET AL"}],"v":37447,"lastV":37446,"hash":"d237442e593e7ba55b759ed8725a17c4911dce61"}]}<|>1741941969279905510
+6:::284<|>1741941969282527374
+5:::{"name":"otUpdateApplied","args":[{"v":37447,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941969285203972
+5:285+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":494,"i":"L O"}],"v":37448,"lastV":37447}]}<|>1741941971288822852
+6:::285<|>1741941971294799929
+5:::{"name":"otUpdateApplied","args":[{"v":37448,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941971298416049
+5:286+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":497,"i":"F Y"}],"v":37449,"lastV":37448}]}<|>1741941973302386466
+6:::286<|>1741941973309217074
+5:::{"name":"otUpdateApplied","args":[{"v":37449,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941973311512622
+5:287+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":500,"i":"»"},{"p":499,"d":"Y»"},{"p":499,"i":"TJ"}],"v":37450,"lastV":37449,"hash":"62771536be7d212462ed2d41b76fc94d5e749004"}]}<|>1741941975315549128
+6:::287<|>1741941975321020543
+5:::{"name":"otUpdateApplied","args":[{"v":37450,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941975324524311
+5:288+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":501,"i":"IS"},{"p":500,"d":"JIS"}],"v":37451,"lastV":37450}]}<|>1741941977328463543
+6:::288<|>1741941977333697326
+5:::{"name":"otUpdateApplied","args":[{"v":37451,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941977337397862
+5:289+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":500,"i":"HISS"}],"v":37452,"lastV":37451}]}<|>1741941979340861924
+6:::289<|>1741941979344316603
+5:::{"name":"otUpdateApplied","args":[{"v":37452,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941979346283415
+5:290+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":503,"d":"S"}],"v":37453,"lastV":37452,"hash":"229ac6abd8a397d927533b4cd1c73c13de796b9c"}]}<|>1741941981348320327
+6:::290<|>1741941981350545283
+5:::{"name":"otUpdateApplied","args":[{"v":37453,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941981351774109
+5:291+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":503,"i":"SSSSSSSSS"}],"v":37454,"lastV":37453}]}<|>1741941983361802474
+6:::291<|>1741941983366918603
+5:::{"name":"otUpdateApplied","args":[{"v":37454,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941983369452025
+2::<|>1741941983441205657
+2::<|>1741941983443392207
+5:292+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":512,"i":"S"}],"v":37455,"lastV":37454}]}<|>1741941985373509780
+6:::292<|>1741941985379651559
+5:::{"name":"otUpdateApplied","args":[{"v":37455,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941985380929715
+5:293+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":513,"i":"SSSSSSSSS"}],"v":37456,"lastV":37455,"hash":"72ce297036e0a51550d7d38960b7a8a181f8e8d3"}]}<|>1741941994975882864
+6:::293<|>1741941994980123148
+5:::{"name":"otUpdateApplied","args":[{"v":37456,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941994981437422
+5:294+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":522,"i":"SSSSSSS"}],"v":37457,"lastV":37456}]}<|>1741941996985903557
+6:::294<|>1741941996990678056
+5:::{"name":"otUpdateApplied","args":[{"v":37457,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741941996994076283
+5:295+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":529,"i":" BUTT"}],"v":37458,"lastV":37457,"hash":"6e1e7abca2a1e7a2bb6c1bfb13f0ec13ac503e13"}]}<|>1741942003192371249
+6:::295<|>1741942003198177167
+5:::{"name":"otUpdateApplied","args":[{"v":37458,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942003201861811
+5:296+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":533,"d":"T"}],"v":37459,"lastV":37458}]}<|>1741942005205520013
+6:::296<|>1741942005210882515
+5:::{"name":"otUpdateApplied","args":[{"v":37459,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942005214975969
+5:297+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":531,"d":"UT"},{"p":531,"i":" "}],"v":37460,"lastV":37459}]}<|>1741942007219493969
+6:::297<|>1741942007225545673
+5:::{"name":"otUpdateApplied","args":[{"v":37460,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942007229567133
+2::<|>1741942008448369925
+2::<|>1741942008451237335
+5:298+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":532,"i":"I"},{"p":532,"d":"I"}],"v":37461,"lastV":37460,"hash":"d61c9878847a84bbc3c5502ca4cebd4fdb7f6d1a"}]}<|>1741942009238996886
+6:::298<|>1741942009241892707
+5:::{"name":"otUpdateApplied","args":[{"v":37461,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942009243908021
+5:299+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":532,"i":"O"}],"v":37462,"lastV":37461}]}<|>1741942011247189423
+6:::299<|>1741942011253330860
+5:::{"name":"otUpdateApplied","args":[{"v":37462,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942011257106823
+5:300+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":533,"i":"UT "}],"v":37463,"lastV":37462}]}<|>1741942013260077155
+6:::300<|>1741942013264277727
+5:::{"name":"otUpdateApplied","args":[{"v":37463,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942013268803174
+5:301+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":536,"i":"OF T"}],"v":37464,"lastV":37463,"hash":"0f38af0f553fca464fc9679e6956897389903317"}]}<|>1741942015274379380
+6:::301<|>1741942015279926337
+5:::{"name":"otUpdateApplied","args":[{"v":37464,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942015283987886
+5:302+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":540,"i":"HA"},{"p":541,"d":"A"}],"v":37465,"lastV":37464}]}<|>1741942017290164038
+6:::302<|>1741942017295465566
+5:::{"name":"otUpdateApplied","args":[{"v":37465,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942017298706837
+5:303+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":541,"i":"E "}],"v":37466,"lastV":37465}]}<|>1741942019300866703
+6:::303<|>1741942019302700081
+5:::{"name":"otUpdateApplied","args":[{"v":37466,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942019304512573
+5:304+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":543,"i":"WAT"}],"v":37467,"lastV":37466,"hash":"94f4ebe3bdbbd3729acf12212638b1f72db0cc42"}]}<|>1741942021305863200
+6:::304<|>1741942021308720658
+5:::{"name":"otUpdateApplied","args":[{"v":37467,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942021310834181
+5:305+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":545,"d":"T"},{"p":545,"i":"R"},{"p":545,"d":"R"}],"v":37468,"lastV":37467}]}<|>1741942023314544766
+6:::305<|>1741942023320023393
+5:::{"name":"otUpdateApplied","args":[{"v":37468,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942023324607911
+5:306+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":545,"i":"Y "}],"v":37469,"lastV":37468}]}<|>1741942025329040424
+6:::306<|>1741942025334899926
+5:::{"name":"otUpdateApplied","args":[{"v":37469,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942025338127918
+5:307+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":547,"i":"BE"}],"v":37470,"lastV":37469,"hash":"1e60e91c797f1892f632db48ca3ee2a234e18efb"}]}<|>1741942027340564673
+6:::307<|>1741942027343043068
+5:::{"name":"otUpdateApplied","args":[{"v":37470,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942027344696752
+5:308+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":549,"i":"D"},{"p":549,"d":"D"},{"p":549,"i":"F"}],"v":37471,"lastV":37470}]}<|>1741942029346097382
+6:::308<|>1741942029348244465
+5:::{"name":"otUpdateApplied","args":[{"v":37471,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942029349950001
+2::<|>1741942033453644762
+2::<|>1741942033454816691
+5:309+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":550,"i":"OTR"},{"p":552,"d":"R"}],"v":37472,"lastV":37471,"hash":"8db4d5708388c051a40d12c46291293aa708fe3b"}]}<|>1741942041773484108
+6:::309<|>1741942041776226493
+5:::{"name":"otUpdateApplied","args":[{"v":37472,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942041777324911
+5:310+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":551,"d":"T"},{"p":551,"i":"RE "}],"v":37473,"lastV":37472}]}<|>1741942043778666818
+6:::310<|>1741942043780815658
+5:::{"name":"otUpdateApplied","args":[{"v":37473,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942043782217379
+5:311+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":554,"i":"M"}],"v":37474,"lastV":37473,"hash":"06f709445106cde19f38b6530256c86982ca318e"}]}<|>1741942051848683036
+6:::311<|>1741942051851127156
+5:::{"name":"otUpdateApplied","args":[{"v":37474,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942051852504169
+2::<|>1741942058457310945
+2::<|>1741942058458378508
+5:312+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":555,"i":"Y M"}],"v":37475,"lastV":37474,"hash":"684e5be561d202874f6573addbdf1594f094e28f"}]}<|>1741942062196084425
+6:::312<|>1741942062200620033
+5:::{"name":"otUpdateApplied","args":[{"v":37475,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942062204180649
+5:313+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":558,"i":"I"},{"p":558,"d":"I"}],"v":37476,"lastV":37475}]}<|>1741942064206742949
+6:::313<|>1741942064210752873
+5:::{"name":"otUpdateApplied","args":[{"v":37476,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942064214580411
+5:314+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":558,"i":"OV"}],"v":37477,"lastV":37476}]}<|>1741942066215780712
+6:::314<|>1741942066221733375
+5:::{"name":"otUpdateApplied","args":[{"v":37477,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942066224866249
+5:315+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":560,"i":"E¼"},{"p":561,"d":"¼"}],"v":37478,"lastV":37477,"hash":"cfe1c57b90f08c1f561c2d848d842e4a87795aef"}]}<|>1741942068227041127
+6:::315<|>1741942068229732807
+5:::{"name":"otUpdateApplied","args":[{"v":37478,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942068230990922
+5:316+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":561,"i":"¾"}],"v":37479,"lastV":37478}]}<|>1741942070234250044
+6:::316<|>1741942070240659982
+5:::{"name":"otUpdateApplied","args":[{"v":37479,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942070244087286
+5:317+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":562,"i":"I D"}],"v":37480,"lastV":37479,"hash":"5209ac3d6974ece0bd48044d1a6e803882010533"}]}<|>1741942077672955633
+6:::317<|>1741942077678096378
+5:::{"name":"otUpdateApplied","args":[{"v":37480,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942077681041641
+5:318+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":565,"i":"IDNL"}],"v":37481,"lastV":37480}]}<|>1741942079683612737
+6:::318<|>1741942079687217225
+5:::{"name":"otUpdateApplied","args":[{"v":37481,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942079690321046
+5:319+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":568,"d":"L"},{"p":568,"i":"Þ"}],"v":37482,"lastV":37481}]}<|>1741942081692616753
+6:::319<|>1741942081695095686
+5:::{"name":"otUpdateApplied","args":[{"v":37482,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942081696326219
+2::<|>1741942083462154126
+2::<|>1741942083465485500
+5:320+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":569,"i":"T"}],"v":37483,"lastV":37482,"hash":"17d75403231fd339350a895fde4743250ecdbc5d"}]}<|>1741942083697920058
+6:::320<|>1741942083700025018
+5:::{"name":"otUpdateApplied","args":[{"v":37483,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942083701889113
+5:321+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":570,"i":" TJ"},{"p":572,"d":"J"}],"v":37484,"lastV":37483}]}<|>1741942085704158149
+6:::321<|>1741942085708401206
+5:::{"name":"otUpdateApplied","args":[{"v":37484,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942085710982386
+5:322+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":572,"i":"HIN"}],"v":37485,"lastV":37484}]}<|>1741942087720841103
+6:::322<|>1741942087726574025
+5:::{"name":"otUpdateApplied","args":[{"v":37485,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942087729459019
+5:323+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":575,"i":"L "},{"p":575,"d":"L "}],"v":37486,"lastV":37485,"hash":"236fddbdd227caaad132fa3d5b13ed348f46c0f0"}]}<|>1741942089733522593
+6:::323<|>1741942089739906297
+5:::{"name":"otUpdateApplied","args":[{"v":37486,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942089744799971
+5:324+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":575,"i":"K E"}],"v":37487,"lastV":37486}]}<|>1741942091756931268
+6:::324<|>1741942091760733356
+5:::{"name":"otUpdateApplied","args":[{"v":37487,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942091763095143
+5:325+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":578,"i":"AR "},{"p":577,"d":"EAR "}],"v":37488,"lastV":37487}]}<|>1741942093767023088
+6:::325<|>1741942093773797693
+5:::{"name":"otUpdateApplied","args":[{"v":37488,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942093777634381
+5:326+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":577,"i":"WE"}],"v":37489,"lastV":37488,"hash":"6cfdc192e8d12a1428524d25149045317b746a48"}]}<|>1741942095781921843
+6:::326<|>1741942095788816911
+5:::{"name":"otUpdateApplied","args":[{"v":37489,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942095793666109
+5:327+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":579,"i":" HAS"}],"v":37490,"lastV":37489}]}<|>1741942097798270429
+6:::327<|>1741942097805093527
+5:::{"name":"otUpdateApplied","args":[{"v":37490,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942097810157679
+5:328+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":582,"d":"S"},{"p":582,"i":"D I"}],"v":37491,"lastV":37490}]}<|>1741942099821006491
+6:::328<|>1741942099825522847
+5:::{"name":"otUpdateApplied","args":[{"v":37491,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942099830199621
+5:329+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":585,"i":"T¼"}],"v":37492,"lastV":37491,"hash":"4b2b492af8a865e625c2fb1656a2c3d710bb9013"}]}<|>1741942101834193796
+6:::329<|>1741942101840425031
+5:::{"name":"otUpdateApplied","args":[{"v":37492,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942101845128751
+5:330+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":586,"d":"¼"},{"p":586,"i":"¾"},{"p":586,"d":"¾"}],"v":37493,"lastV":37492}]}<|>1741942103849083568
+6:::330<|>1741942103855797635
+5:::{"name":"otUpdateApplied","args":[{"v":37493,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942103859869137
+2::<|>1741942108469848661
+2::<|>1741942108472878059
+5:331+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":586,"i":"2N"}],"v":37494,"lastV":37493,"hash":"0aab18bebd45f5d8075b6ce2a90a54ea3b1a4e4b"}]}<|>1741942112383223077
+6:::331<|>1741942112388885343
+5:::{"name":"otUpdateApplied","args":[{"v":37494,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942112392287458
+5:332+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":588,"i":"D S"}],"v":37495,"lastV":37494}]}<|>1741942114396082113
+6:::332<|>1741942114401434815
+5:::{"name":"otUpdateApplied","args":[{"v":37495,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942114404457559
+5:333+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":591,"i":"I"}],"v":37496,"lastV":37495}]}<|>1741942116408860576
+6:::333<|>1741942116414826693
+5:::{"name":"otUpdateApplied","args":[{"v":37496,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942116418677795
+5:334+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":592,"i":"NCE"}],"v":37497,"lastV":37496,"hash":"d83748a639e4700cb99b677790b5df44baac89ef"}]}<|>1741942125314852842
+6:::334<|>1741942125320261365
+5:::{"name":"otUpdateApplied","args":[{"v":37497,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942125325383894
+5:335+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":595,"i":" SO "}],"v":37498,"lastV":37497}]}<|>1741942127327772214
+6:::335<|>1741942127330923004
+5:::{"name":"otUpdateApplied","args":[{"v":37498,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942127332893478
+5:336+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":599,"i":"N"},{"p":599,"d":"N"}],"v":37499,"lastV":37498}]}<|>1741942129336667016
+6:::336<|>1741942129342747951
+5:::{"name":"otUpdateApplied","args":[{"v":37499,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942129346775813
+5:337+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":599,"i":"MAM"}],"v":37500,"lastV":37499,"hash":"0a80aeb258658d65e47f6c3f1f6121b6d6f2fa00"}]}<|>1741942131351330421
+6:::337<|>1741942131358560768
+5:::{"name":"otUpdateApplied","args":[{"v":37500,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942131362580278
+5:338+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":601,"d":"M"},{"p":601,"i":"NY"}],"v":37501,"lastV":37500}]}<|>1741942133366376068
+6:::338<|>1741942133372069486
+5:::{"name":"otUpdateApplied","args":[{"v":37501,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942133375782627
+2::<|>1741942133478167595
+2::<|>1741942133481492542
+5:339+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":603,"i":" O"}],"v":37502,"lastV":37501}]}<|>1741942135379630981
+6:::339<|>1741942135385057774
+5:::{"name":"otUpdateApplied","args":[{"v":37502,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942135387275124
+5:340+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":604,"d":"O"},{"p":604,"i":"P"}],"v":37503,"lastV":37502,"hash":"2ccb6bd3e49cf70afa5e30f87f52f3d5b8f1e813"}]}<|>1741942137391718922
+6:::340<|>1741942137397102985
+5:::{"name":"otUpdateApplied","args":[{"v":37503,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942137400866868
+5:341+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":605,"i":"E"}],"v":37504,"lastV":37503}]}<|>1741942139403620217
+6:::341<|>1741942139408243208
+5:::{"name":"otUpdateApplied","args":[{"v":37504,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942139412651834
+5:342+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":606,"i":"OP"}],"v":37505,"lastV":37504}]}<|>1741942141410135387
+6:::342<|>1741942141415374419
+5:::{"name":"otUpdateApplied","args":[{"v":37505,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942141419104116
+5:343+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":608,"i":"LE "}],"v":37506,"lastV":37505,"hash":"452399be268f1c5705d2866a0b4eabd25078697a"}]}<|>1741942143423847582
+6:::343<|>1741942143429777416
+5:::{"name":"otUpdateApplied","args":[{"v":37506,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942143433733296
+5:344+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":611,"i":"ARE "}],"v":37507,"lastV":37506}]}<|>1741942145438300706
+6:::344<|>1741942145444328315
+5:::{"name":"otUpdateApplied","args":[{"v":37507,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942145448525642
+5:345+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":615,"i":"OI"},{"p":616,"d":"I"}],"v":37508,"lastV":37507,"hash":"be26ec24e72f31760dae5dd855455cd847722c8a"}]}<|>1741942149619211817
+6:::345<|>1741942149624795662
+5:::{"name":"otUpdateApplied","args":[{"v":37508,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942149628068475
+5:346+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":616,"i":"U"}],"v":37509,"lastV":37508}]}<|>1741942151632336314
+6:::346<|>1741942151637758148
+5:::{"name":"otUpdateApplied","args":[{"v":37509,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942151640595106
+5:347+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":617,"i":"T O"}],"v":37510,"lastV":37509}]}<|>1741942153644467676
+6:::347<|>1741942153649586224
+5:::{"name":"otUpdateApplied","args":[{"v":37510,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942153656145702
+5:348+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":620,"i":"G"},{"p":620,"d":"G"}],"v":37511,"lastV":37510,"hash":"9feb4c74020a7ec69723dc7f969ab74f1e7324e5"}]}<|>1741942155658294624
+6:::348<|>1741942155660783999
+5:::{"name":"otUpdateApplied","args":[{"v":37511,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942155662795325
+5:349+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":620,"i":"F T"}],"v":37512,"lastV":37511}]}<|>1741942157664678471
+6:::349<|>1741942157667699791
+5:::{"name":"otUpdateApplied","args":[{"v":37512,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942157668778962
+2::<|>1741942158487429415
+2::<|>1741942158490874255
+5:350+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":623,"i":"HE O"}],"v":37513,"lastV":37512}]}<|>1741942159672161892
+6:::350<|>1741942159678472685
+5:::{"name":"otUpdateApplied","args":[{"v":37513,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942159682499994
+5:351+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":627,"i":"GG"},{"p":628,"d":"G"}],"v":37514,"lastV":37513,"hash":"f421d2a6d70ee7f1f41248425bc3e7eca8394323"}]}<|>1741942161687430867
+6:::351<|>1741942161693232096
+5:::{"name":"otUpdateApplied","args":[{"v":37514,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942161697262808
+5:352+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":627,"d":"G"},{"p":627,"i":"HH"},{"p":627,"d":"HH"},{"p":627,"i":"FF"}],"v":37515,"lastV":37514}]}<|>1741942163701335244
+6:::352<|>1741942163706825861
+5:::{"name":"otUpdateApplied","args":[{"v":37515,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942163711128165
+5:353+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":629,"i":"I"}],"v":37516,"lastV":37515}]}<|>1741942165715753686
+6:::353<|>1741942165721565744
+5:::{"name":"otUpdateApplied","args":[{"v":37516,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942165724447295
+5:354+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":630,"i":"V"},{"p":630,"d":"V"},{"p":630,"i":"D"},{"p":630,"d":"D"}],"v":37517,"lastV":37516,"hash":"ad3feb10555f6a0da8d7d25d7c9335aef5038d1c"}]}<|>1741942167729222014
+6:::354<|>1741942167735856931
+5:::{"name":"otUpdateApplied","args":[{"v":37517,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942167741720333
+5:355+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":630,"i":"CE "}],"v":37518,"lastV":37517}]}<|>1741942169744767314
+6:::355<|>1741942169750262054
+5:::{"name":"otUpdateApplied","args":[{"v":37518,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942169753434023
+5:356+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":633,"i":"UNTI"}],"v":37519,"lastV":37518}]}<|>1741942171756964546
+6:::356<|>1741942171762001484
+5:::{"name":"otUpdateApplied","args":[{"v":37519,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942171766711146
+5:357+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":637,"i":"L TH"}],"v":37520,"lastV":37519,"hash":"acd20a0ffe75eaaf8c05a48d1f87bc60a59cd581"}]}<|>1741942173770525257
+6:::357<|>1741942173775828429
+5:::{"name":"otUpdateApplied","args":[{"v":37520,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942173780828190
+5:358+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":641,"i":"EN"}],"v":37521,"lastV":37520}]}<|>1741942175782916966
+6:::358<|>1741942175784774541
+5:::{"name":"otUpdateApplied","args":[{"v":37521,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942175785704031
+5:359+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":643,"i":"¾"}],"v":37522,"lastV":37521}]}<|>1741942177788472208
+6:::359<|>1741942177794048089
+5:::{"name":"otUpdateApplied","args":[{"v":37522,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942177797679204
+2::<|>1741942183496044619
+2::<|>1741942183498867058
+5:360+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":644,"i":"IÞº"}],"v":37523,"lastV":37522,"hash":"c0147391831d786791d7712fd7fb4b5d6e4e2da3"}]}<|>1741942184998459315
+6:::360<|>1741942185002914783
+5:::{"name":"otUpdateApplied","args":[{"v":37523,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942185007407705
+5:361+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":647,"i":"º"},{"p":646,"d":"ºº"},{"p":646,"i":"LL"}],"v":37524,"lastV":37523}]}<|>1741942187016458503
+6:::361<|>1741942187022702864
+5:::{"name":"otUpdateApplied","args":[{"v":37524,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942187025225528
+5:362+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":648,"i":" T"}],"v":37525,"lastV":37524}]}<|>1741942189029621128
+6:::362<|>1741942189035913291
+5:::{"name":"otUpdateApplied","args":[{"v":37525,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942189040013034
+5:363+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":650,"i":"AKE "}],"v":37526,"lastV":37525,"hash":"1a6575604037bbc6d6f0fac76527362a91b9b090"}]}<|>1741942191043960467
+6:::363<|>1741942191048892440
+5:::{"name":"otUpdateApplied","args":[{"v":37526,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942191052876666
+5:364+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":654,"i":"THEM"}],"v":37527,"lastV":37526}]}<|>1741942193067886863
+6:::364<|>1741942193072501363
+5:::{"name":"otUpdateApplied","args":[{"v":37527,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942193076703552
+5:365+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":658,"i":" ON"}],"v":37528,"lastV":37527}]}<|>1741942195080984452
+6:::365<|>1741942195086631284
+5:::{"name":"otUpdateApplied","args":[{"v":37528,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942195089502867
+5:366+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":661,"i":"E AT A "}],"v":37529,"lastV":37528,"hash":"bf4da060aeb03d67bfeb1eabb729bf78c7d58317"}]}<|>1741942197093244726
+6:::366<|>1741942197098615622
+5:::{"name":"otUpdateApplied","args":[{"v":37529,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942197101522983
+5:367+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":668,"i":"TI"}],"v":37530,"lastV":37529}]}<|>1741942199105562912
+6:::367<|>1741942199112115950
+5:::{"name":"otUpdateApplied","args":[{"v":37530,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942199115091338
+5:368+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":670,"i":"ME"}],"v":37531,"lastV":37530}]}<|>1741942201119031807
+6:::368<|>1741942201125233163
+5:::{"name":"otUpdateApplied","args":[{"v":37531,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942201128512166
+5:369+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":672,"i":"¾"}],"v":37532,"lastV":37531,"hash":"c42c19abf0d7138ae03a6dc43fbc85c9b991ea36"}]}<|>1741942203133008117
+6:::369<|>1741942203138981501
+5:::{"name":"otUpdateApplied","args":[{"v":37532,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942203141925642
+2::<|>1741942208502895881
+2::<|>1741942208506281755
+5:370+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":673,"i":"AN"}],"v":37533,"lastV":37532,"hash":"c44bb24ff032c68fc585a6631e02b3f16dfff78e"}]}<|>1741942210314948184
+6:::370<|>1741942210320587796
+5:::{"name":"otUpdateApplied","args":[{"v":37533,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942210324847777
+5:371+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":675,"i":"D M"}],"v":37534,"lastV":37533}]}<|>1741942214529557884
+6:::371<|>1741942214533776576
+5:::{"name":"otUpdateApplied","args":[{"v":37534,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942214536665744
+5:372+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":678,"i":"A"}],"v":37535,"lastV":37534,"hash":"1a91e6236dc3816dcf2c9b9aee6eee5e2a8f9b37"}]}<|>1741942216540320560
+6:::372<|>1741942216545301848
+5:::{"name":"otUpdateApplied","args":[{"v":37535,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942216548981057
+5:373+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":679,"i":"YN"}],"v":37536,"lastV":37535}]}<|>1741942218553424588
+6:::373<|>1741942218560677638
+5:::{"name":"otUpdateApplied","args":[{"v":37536,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942218564690874
+5:374+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":680,"d":"N"},{"p":680,"i":"BE"}],"v":37537,"lastV":37536}]}<|>1741942220568528484
+6:::374<|>1741942220573902866
+5:::{"name":"otUpdateApplied","args":[{"v":37537,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942220576881363
+5:375+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":682,"i":" "}],"v":37538,"lastV":37537,"hash":"041348d41d4398158074d6079cfe61a026e4e9b2"}]}<|>1741942222581166270
+6:::375<|>1741942222586765374
+5:::{"name":"otUpdateApplied","args":[{"v":37538,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942222589982545
+5:376+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":683,"i":"FOT"},{"p":685,"d":"T"}],"v":37539,"lastV":37538}]}<|>1741942224593927434
+6:::376<|>1741942224599180479
+5:::{"name":"otUpdateApplied","args":[{"v":37539,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942224602571314
+5:377+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":685,"i":"R T"}],"v":37540,"lastV":37539}]}<|>1741942226606242305
+6:::377<|>1741942226611780117
+5:::{"name":"otUpdateApplied","args":[{"v":37540,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942226615155766
+2::<|>1741942233509229940
+2::<|>1741942233510082628
+5:378+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":688,"i":"OO"}],"v":37541,"lastV":37540,"hash":"44b0fd3cfa3c21e18298b82f28382131c895bdbb"}]}<|>1741942234189468470
+6:::378<|>1741942234194827818
+5:::{"name":"otUpdateApplied","args":[{"v":37541,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942234198793195
+5:379+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":690,"i":" L"}],"v":37542,"lastV":37541}]}<|>1741942236202331346
+6:::379<|>1741942236208077327
+5:::{"name":"otUpdateApplied","args":[{"v":37542,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942236210683264
+5:380+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":692,"i":"ON"}],"v":37543,"lastV":37542}]}<|>1741942238212872439
+6:::380<|>1741942238215741469
+5:::{"name":"otUpdateApplied","args":[{"v":37543,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942238217088557
+5:381+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":694,"i":"G "}],"v":37544,"lastV":37543,"hash":"96da771ccaadfb20910c2e41231360dd13c50cdf"}]}<|>1741942240220693443
+6:::381<|>1741942240226412932
+5:::{"name":"otUpdateApplied","args":[{"v":37544,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942240230697271
+5:382+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":696,"i":"ER"},{"p":696,"d":"ER"}],"v":37545,"lastV":37544}]}<|>1741942242234968501
+6:::382<|>1741942242241083217
+5:::{"name":"otUpdateApplied","args":[{"v":37545,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942242245959089
+5:383+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":696,"i":"DWE"},{"p":698,"d":"E"}],"v":37546,"lastV":37545}]}<|>1741942244249168995
+6:::383<|>1741942244254339181
+5:::{"name":"otUpdateApplied","args":[{"v":37546,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942244258476537
+5:384+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":697,"d":"W"},{"p":697,"i":"WE"},{"p":696,"d":"DWE"},{"p":696,"i":"W"}],"v":37547,"lastV":37546,"hash":"e3f8db2e7404757b061c5902638ab78ace104a81"}]}<|>1741942246263476164
+6:::384<|>1741942246269708122
+5:::{"name":"otUpdateApplied","args":[{"v":37547,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942246274788412
+5:385+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":697,"i":"E"}],"v":37548,"lastV":37547}]}<|>1741942248278256358
+6:::385<|>1741942248284989841
+5:::{"name":"otUpdateApplied","args":[{"v":37548,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942248288677926
+5:386+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":698,"i":"ÞVE"}],"v":37549,"lastV":37548,"hash":"48c95603266cceff594305d9aa55c3b64cab453b"}]}<|>1741942252916218958
+6:::386<|>1741942252921986386
+5:::{"name":"otUpdateApplied","args":[{"v":37549,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942252926122245
+5:387+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":701,"i":" "}],"v":37550,"lastV":37549}]}<|>1741942254930023043
+6:::387<|>1741942254936171617
+5:::{"name":"otUpdateApplied","args":[{"v":37550,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942254940243074
+5:388+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":702,"i":"BEE"}],"v":37551,"lastV":37550}]}<|>1741942256943662801
+6:::388<|>1741942256949141884
+5:::{"name":"otUpdateApplied","args":[{"v":37551,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942256954305173
+2::<|>1741942258513379683
+2::<|>1741942258517046268
+5:389+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":705,"i":"N U"}],"v":37552,"lastV":37551,"hash":"6dbd9490b5a4faee809f72c3a203911383c92c44"}]}<|>1741942258956554655
+6:::389<|>1741942258958489508
+5:::{"name":"otUpdateApplied","args":[{"v":37552,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942258959782565
+5:390+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":708,"i":"N"}],"v":37553,"lastV":37552}]}<|>1741942260961027225
+6:::390<|>1741942260963019300
+5:::{"name":"otUpdateApplied","args":[{"v":37553,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942260964362057
+5:391+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":709,"i":"DER"}],"v":37554,"lastV":37553}]}<|>1741942262965966845
+6:::391<|>1741942262968926335
+5:::{"name":"otUpdateApplied","args":[{"v":37554,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942262971286489
+5:392+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":712,"i":"ES"}],"v":37555,"lastV":37554,"hash":"7fb3bf7eccdbc2673fbf4bbcb215692ea69ef7d7"}]}<|>1741942264975046702
+6:::392<|>1741942264980806832
+5:::{"name":"otUpdateApplied","args":[{"v":37555,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942264984069091
+5:393+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":714,"i":"TIM"}],"v":37556,"lastV":37555}]}<|>1741942266988013941
+6:::393<|>1741942266993908058
+5:::{"name":"otUpdateApplied","args":[{"v":37556,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942266997240440
+5:394+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":717,"i":"AT"}],"v":37557,"lastV":37556}]}<|>1741942269000867153
+6:::394<|>1741942269005834327
+5:::{"name":"otUpdateApplied","args":[{"v":37557,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942269008183977
+5:395+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":719,"i":"ING"}],"v":37558,"lastV":37557,"hash":"26e8beba73c257109df5dfa6db2987c6db7fb1ef"}]}<|>1741942271011159921
+6:::395<|>1741942271016572482
+5:::{"name":"otUpdateApplied","args":[{"v":37558,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942271020280712
+5:396+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":722,"i":" OI"}],"v":37559,"lastV":37558}]}<|>1741942273024908106
+6:::396<|>1741942273030877099
+5:::{"name":"otUpdateApplied","args":[{"v":37559,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942273034185753
+5:397+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":724,"d":"I"},{"p":724,"i":"U"}],"v":37560,"lastV":37559}]}<|>1741942275038658890
+6:::397<|>1741942275044275095
+5:::{"name":"otUpdateApplied","args":[{"v":37560,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942275047741114
+5:398+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":725,"i":"RSW"}],"v":37561,"lastV":37560,"hash":"867172d7990527896c4eded4eba2b6a3e688451c"}]}<|>1741942277052286110
+6:::398<|>1741942277058837500
+5:::{"name":"otUpdateApplied","args":[{"v":37561,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942277062180772
+5:399+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":727,"d":"W"},{"p":727,"i":"E"}],"v":37562,"lastV":37561}]}<|>1741942279066443182
+6:::399<|>1741942279071769414
+5:::{"name":"otUpdateApplied","args":[{"v":37562,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942279075367390
+5:400+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":728,"i":"LC"}],"v":37563,"lastV":37562}]}<|>1741942281079055850
+6:::400<|>1741942281085021107
+5:::{"name":"otUpdateApplied","args":[{"v":37563,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942281088829976
+5:401+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":729,"d":"C"},{"p":729,"i":"X"},{"p":729,"d":"X"}],"v":37564,"lastV":37563,"hash":"74c4f032591db38a015e0d61224ba02e66580d70"}]}<|>1741942283093163033
+6:::401<|>1741942283098046015
+5:::{"name":"otUpdateApplied","args":[{"v":37564,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942283102397936
+2::<|>1741942283521455324
+2::<|>1741942283524496703
+5:402+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":729,"i":"V"}],"v":37565,"lastV":37564}]}<|>1741942285106859686
+6:::402<|>1741942285112180905
+5:::{"name":"otUpdateApplied","args":[{"v":37565,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942285116851031
+5:403+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":730,"i":"E"}],"v":37566,"lastV":37565}]}<|>1741942287121075158
+6:::403<|>1741942287126496973
+5:::{"name":"otUpdateApplied","args":[{"v":37566,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942287130949645
+5:404+::{"name":"applyOtUpdate","args":["67cee7ab38bbecf3ac623d96",{"doc":"67cee7ab38bbecf3ac623d96","op":[{"p":731,"i":"S"}],"v":37567,"lastV":37566,"hash":"9f1b8801c6aba55e3ca0b1d0f2771b2097691cff"}]}<|>1741942289135397780
+6:::404<|>1741942289140564536
+5:::{"name":"otUpdateApplied","args":[{"v":37567,"doc":"67cee7ab38bbecf3ac623d96"}]}<|>1741942289144575525
